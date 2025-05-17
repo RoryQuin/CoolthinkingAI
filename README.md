@@ -1,7 +1,7 @@
 ## 项目简介
 一个面向思想政治教育师范生的马克思主义基础概念条目库。<br>
 
-这是一个结构化的条目库。它收录了258个马克思主义基础概念条目，并为每个条目设置了元数据。它用于为思想政治教育师范生将生成式人工智能的语言模型训练为课程代理提供知识库，也可以下载到个人阅读器中浏览。
+这是一个结构化的条目库。它收录了258个马克思主义基础概念条目，并为每个条目设置了元数据。它用于帮助思想政治教育师范生将生成式人工智能的语言模型训练为课程代理提供知识库，也可以下载到个人阅读器中浏览。
 
 ## 名称
 * **A database of basic concepts of Marxism for teacher candidates in ideological and political education**  // 面向思想政治教育师范生的马克思主义基本概念条目库
@@ -15,7 +15,7 @@
 ## 维护团队
 * 北京师范大学乐育书院农政学人社群小组
 ---
-## 参考文献
+## 资源
 Google.Gemini Canvas[EB/OL].(2025-03-19)[2025-05-12]. https://gemini.google.com/canvas.<br>
 Python Software Foundation.Python 3.13[EB/OL].(2023-10-02)[2025-05-12]. https://www.python.org/downloads/release/python-3130/.<br>
 Obsidian.Obsidian v1.8.9 [EB/OL].[2025-05-12]. https://obsidian.md/.<br>
