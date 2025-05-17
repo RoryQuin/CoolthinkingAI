@@ -1,0 +1,1603 @@
+# // **[REPOSITORY SUMMARY]** // 知识库概要
+---
+### [NAME] // 名称
+* **A database of basic concepts of Marxism for teacher candidates in ideological and political education**  // 面向思想政治教育师范生的马克思主义基本概念条目库
+---
+### [VERSION] // 版本
+* **Current Version:** 1.0.1 // 当前版本
+---
+### [CONTROL PROTOCOL] // 控制协议
+* **Deployment:** Local Host // 部署：本地
+---
+### [LAST UPDATE] // 最后更新
+* **Timestamp:** 2025-05-16 // 时间戳：2025-05-1
+---
+
+*// **[END OF SUMMARY]** // 概要结束*
+
+
+## [INDEX: 01] Philosophical Concepts // 哲学概念
+
+### 1.1. [SUB-INDEX: 01-01] Fundamental Concepts // 基本概念
+
+#### **[ID: 001] 人的本性 // Human Nature**
+* **Encoding:** `HUM-NAT-001`
+* **Overview:** 人类固有的品质和特征，在马克思主义中常被视为由社会和历史条件塑造而非固定不变。
+* **Key Word (s):** 人的本性, 社会条件, 历史 (Human Nature, Social Conditions, History)
+* **Parameter (s):** [Historical Context], [Social Environment], [Biological Factors] // [历史背景], [社会环境], [生物因素]
+
+#### **[ID: 002] 不可知论 // Agnosticism**
+* **Encoding:** `AGN-PHI-002`
+* **Overview:** 一种哲学立场，认为某些主张，特别是关于上帝和宇宙的神学及形而上学主张的真伪是未知且可能不可知的。
+* **Key Word (s):** 不可知论, 哲学, 认知 (Agnosticism, Philosophy, Cognition)
+* **Parameter (s):** [Scope of Knowledge], [Epistemological Limits] // [知识范围], [认识论限制]
+
+#### **[ID: 003] 矛盾 // Contradiction**
+* **Encoding:** `CON-PHI-003`
+* **Overview:** 辩证法的核心概念，指现象内部固有的对立和矛盾力量，它们推动变化和发展。
+* **Key Word (s):** 矛盾, 辩证法, 对立统一, 发展 (Contradiction, Dialectics, Unity of Opposites, Development)
+* **Parameter (s):** [Opposing Forces], [Internal Dynamics], [Resolution Mechanism] // [对立力量], [内在动力], [解决机制]
+
+#### **[ID: 004] 决定论 // Determinism**
+* **Encoding:** `DET-PHI-004`
+* **Overview:** 一种哲学思想，认为所有事件，包括人类行为，最终都由外部原因决定，而非意志自由。
+* **Key Word (s):** 决定论, 原因, 结果, 必然性 (Determinism, Cause, Effect, Necessity)
+* **Parameter (s):** [Causal Factors], [Predictability Level], [Freedom of Will] // [因果因素], [可预测性水平], [意志自由]
+
+#### **[ID: 005] 机械唯物主义 // Mechanical Materialism**
+* **Encoding:** `MEC-MAT-005`
+* **Overview:** 一种唯物主义形式，将宇宙视为一台复杂的机器，所有现象都可以用机械定律和物质排列来解释。
+* **Key Word (s):** 机械唯物主义, 物质, 机械定律, 决定论 (Mechanical Materialism, Matter, Mechanical Laws, Determinism)
+* **Parameter (s):** [Matter Composition], [Mechanical Laws], [System Complexity] // [物质构成], [机械定律], [系统复杂性]
+
+#### **[ID: 006] 否定 // Negation**
+* **Encoding:** `NEG-PHI-006`
+* **Overview:** 在辩证法中，指发展的一个阶段被克服并在新的、更高的阶段中得到保留的过程（否定的否定）。
+* **Key Word (s):** 否定, 辩证法, 发展, 扬弃 (Negation, Dialectics, Development, Sublation)
+* **Parameter (s):** [Previous Stage], [Transformative Process], [Resultant Stage] // [前一阶段], [转化过程], [结果阶段]
+
+#### **[ID: 007] 实践 // Practice**
+* **Encoding:** `PRA-PHI-007`
+* **Overview:** 改变世界的实践活动；在马克思主义中，它是知识的基础和检验真理的标准。
+* **Key Word (s):** 实践, 改造世界, 知识, 真理 (Practice, Transforming the World, Knowledge, Truth)
+* **Parameter (s):** [Activity Type], [Object of Transformation], [Outcome Assessment] // [活动类型], [改造对象], [结果评估]
+
+#### **[ID: 008] 实在论 // Realism**
+* **Encoding:** `REA-PHI-008`
+* **Overview:** 一种哲学立场，认为实在独立于我们的思想或感知而存在。
+* **Key Word (s):** 实在论, 实在, 独立存在, 认知 (Realism, Reality, Independent Existence, Cognition)
+* **Parameter (s):** [Existence Criteria], [Relationship to Perception] // [存在标准], [与感知的关系]
+
+#### **[ID: 009] 实证主义 // Positivism**
+* **Encoding:** `POS-PHI-009`
+* **Overview:** 一种哲学理论，认为只有通过科学方法证实的知识才是真实的知识，强调经验观察和事实。
+* **Key Word (s):** 实证主义, 科学方法, 经验, 事实 (Positivism, Scientific Method, Experience, Facts)
+* **Parameter (s):** [Methodology], [Epistemological Basis], [Verification Criteria] // [方法论], [认识论基础], [验证标准]
+
+#### **[ID: 010] 物质 // Matter**
+* **Encoding:** `MAT-PHI-010`
+* **Overview:** 构成宇宙的基本实体，在唯物主义哲学中被认为是第一性的，独立于意识而存在。
+* **Key Word (s):** 物质, 唯物主义, 存在, 实体 (Matter, Materialism, Existence, Substance)
+* **Parameter (s):** [Properties], [States], [Interactions] // [属性], [状态], [相互作用]
+
+#### **[ID: 011] 物化 // Reification**
+* **Encoding:** `REI-PHI-011`
+* **Overview:** 指社会关系被视为物与物之间的关系，掩盖了其背后的人与人之间的社会联系。
+* **Key Word (s):** 物化, 社会关系, 异化, 资本主义 (Reification, Social Relations, Alienation, Capitalism)
+* **Parameter (s):** [Process Dynamics], [Social Impact], [Consciousness Distortion] // [过程动力学], [社会影响], [意识扭曲]
+
+#### **[ID: 012] 真理 // Truth**
+* **Encoding:** `TRU-PHI-012`
+* **Overview:** 对客观实在的正确反映，在马克思主义中，真理的检验标准是社会实践。
+* **Key Word (s):** 真理, 客观实在, 实践, 认识 (Truth, Objective Reality, Practice, Cognition)
+* **Parameter (s):** [Correspondence to Reality], [Verification Method], [Contextual Validity] // [与实在的对应性], [验证方法], [语境有效性]
+
+#### **[ID: 013] 哲学 // Philosophy**
+* **Encoding:** `PHI-GEN-013`
+* **Overview:** 关于世界观和方法论的理论体系，研究人与世界的关系以及普遍规律。
+* **Key Word (s):** 哲学, 世界观, 方法论, 规律 (Philosophy, Worldview, Methodology, Laws)
+* **Parameter (s):** [Scope of Inquiry], [Methods of Analysis], [Core Questions] // [探究范围], [分析方法], [核心问题]
+
+#### **[ID: 014] 唯物主义 // Materialism**
+* **Encoding:** `MAT-PHI-014`
+* **Overview:** 一种哲学观点，认为物质是唯一或首要的基本实体，意识和精神现象是物质相互作用的结果。
+* **Key Word (s):** 唯物主义, 物质, 意识, 本体论 (Materialism, Matter, Consciousness, Ontology)
+* **Parameter (s):** [Primary Substance], [Relationship to Consciousness], [Forms] // [首要实体], [与意识的关系], [形式]
+
+#### **[ID: 015] 唯心主义 // Idealism**
+* **Encoding:** `IDE-PHI-015`
+* **Overview:** 一种哲学观点，认为意识或精神是唯一或首要的基本实体，物质世界是意识的产物。
+* **Key Word (s):** 唯心主义, 意识, 精神, 本体论 (Idealism, Consciousness, Spirit, Ontology)
+* **Parameter (s):** [Primary Substance], [Relationship to Matter], [Forms] // [首要实体], [与物质的关系], [形式]
+
+#### **[ID: 016] 意识形态 // Ideology**
+* **Encoding:** `IDE-SOC-016`
+* **Overview:** 特定社会群体或阶级的思想、观念、价值观和信仰体系，反映并服务于其社会经济地位。
+* **Key Word (s):** 意识形态, 思想, 观念, 阶级 (Ideology, Ideas, Concepts, Class)
+* **Parameter (s):** [Social Origin], [Function], [Influence] // [社会起源], [功能], [影响]
+
+#### **[ID: 017] 辩证法 // Dialectics**
+* **Encoding:** `DIA-PHI-017`
+* **Overview:** 一种研究事物发展的方法论，强调事物内部的矛盾和联系，以及通过矛盾运动实现发展。
+* **Key Word (s):** 辩证法, 矛盾, 联系, 发展, 方法论 (Dialectics, Contradiction, Connection, Development, Methodology)
+* **Parameter (s):** [Core Principles], [Laws], [Application Scope] // [核心原则], [规律], [应用范围]
+
+#### **[ID: 018] 辩证唯物主义 // Dialectical Materialism**
+* **Encoding:** `DIA-MAT-018`
+* **Overview:** 马克思主义的哲学基础，将唯物主义与辩证法相结合，认为物质世界是辩证发展的，意识是物质发展的产物。
+* **Key Word (s):** 辩证唯物主义, 唯物主义, 辩证法, 哲学 (Dialectical Materialism, Materialism, Dialectics, Philosophy)
+* **Parameter (s):** [Integration of Concepts], [View of Reality], [Historical Application] // [概念整合], [对实在的看法], [历史应用]
+
+### 1.2. [SUB-INDEX: 01-02] Knowledge and Cognition // 知识与认知
+
+#### **[ID: 019] 认识论 // Epistemology**
+* **Encoding:** `EPI-PHI-019`
+* **Overview:** 哲学的一个分支，研究知识的性质、来源、范围和有效性。
+* **Key Word (s):** 认识论, 知识, 来源, 有效性 (Epistemology, Knowledge, Source, Validity)
+* **Parameter (s):** [Nature of Knowledge], [Sources of Knowledge], [Justification Criteria] // [知识的性质], [知识的来源], [辩护标准]
+
+#### **[ID: 020] 经验主义 // Empiricism**
+* **Encoding:** `EMP-PHI-020`
+* **Overview:** 一种认识论观点，认为感官经验是知识的唯一或主要来源。
+* **Key Word (s):** 经验主义, 经验, 感官, 知识来源 (Empiricism, Experience, Senses, Source of Knowledge)
+* **Parameter (s):** [Role of Experience], [Limitations], [Relationship to Reason] // [经验的作用], [局限性], [与理性的关系]
+
+#### **[ID: 021] 虚假意识 // False Consciousness**
+* **Encoding:** `FAL-CON-021`
+* **Overview:** 指被统治阶级接受统治阶级的意识形态，未能认识到自身的真实利益和受剥削的地位。
+* **Key Word (s):** 虚假意识, 意识形态, 阶级, 剥削 (False Consciousness, Ideology, Class, Exploitation)
+* **Parameter (s):** [Origin], [Manifestations], [Overcoming Process] // [起源], [表现形式], [克服过程]
+
+#### **[ID: 022] 逻辑学 // Logic**
+* **Encoding:** `LOG-PHI-022`
+* **Overview:** 研究思维的规律和形式的学科，旨在保证思维的正确性。
+* **Key Word (s):** 逻辑学, 思维, 规律, 形式 (Logic, Thinking, Laws, Forms)
+* **Parameter (s):** [Principles], [Types], [Application] // [原则], [类型], [应用]
+
+## [INDEX: 02] Economic Concepts // 经济概念
+
+### 2.1. [SUB-INDEX: 02-01] Core Economic Principles // 核心经济原则
+
+#### **[ID: 023] 分配 // Distribution**
+* **Encoding:** `DIS-ECO-023`
+* **Overview:** 社会产品在不同社会成员或阶级之间的分配方式，受生产关系决定。
+* **Key Word (s):** 分配, 社会产品, 生产关系, 收入 (Distribution, Social Product, Production Relations, Income)
+* **Parameter (s):** [Mechanism], [Criteria], [Social Impact] // [机制], [标准], [社会影响]
+
+#### **[ID: 024] 分工 // Division of Labor**
+* **Encoding:** `DIV-LAB-024`
+* **Overview:** 生产过程被分解为不同的专业化任务，导致劳动效率提高和社会生产力发展。
+* **Key Word (s):** 分工, 生产过程, 专业化, 效率 (Division of Labor, Production Process, Specialization, Efficiency)
+* **Parameter (s):** [Scope], [Impact on Workers], [Social Consequences] // [范围], [对工人的影响], [社会后果]
+
+#### **[ID: 025] 工资 // Wages**
+* **Encoding:** `WAG-ECO-025`
+* **Overview:** 劳动力的价格，在资本主义制度下，工人出卖劳动力获得的报酬。
+* **Key Word (s):** 工资, 劳动力, 价格, 报酬 (Wages, Labor Power, Price, Remuneration)
+* **Parameter (s):** [Determination Factors], [Forms], [Relationship to Value] // [决定因素], [形式], [与价值的关系]
+
+#### **[ID: 026] 不平衡发展 // Uneven Development**
+* **Encoding:** `UNE-DEV-026`
+* **Overview:** 资本主义在全球扩张过程中，不同地区和国家经济发展水平存在显著差异的现象。
+* **Key Word (s):** 不平衡发展, 资本主义, 全球经济, 差异 (Uneven Development, Capitalism, Global Economy, Disparity)
+* **Parameter (s):** [Geographical Scope], [Driving Forces], [Consequences] // [地理范围], [驱动力], [后果]
+
+#### **[ID: 027] 不平等交换 // Unequal Exchange**
+* **Encoding:** `UNE-EXC-027`
+* **Overview:** 在国际贸易中，发达国家与发展中国家之间通过市场机制实现的价值不等量的交换。
+* **Key Word (s):** 不平等交换, 国际贸易, 价值, 剥削 (Unequal Exchange, International Trade, Value, Exploitation)
+* **Parameter (s):** [Trade Patterns], [Value Transfer], [Impact on Development] // [贸易模式], [价值转移], [对发展的影响]
+
+#### **[ID: 028] 不发达和发达 // Underdevelopment and Development**
+* **Encoding:** `UND-DEV-028`
+* **Overview:** 描述在全球资本主义体系中，部分国家经济长期落后（不发达）与部分国家经济繁荣（发达）的相对状态及其相互关系。
+* **Key Word (s):** 不发达, 发达, 全球资本主义, 经济状态 (Underdevelopment, Development, Global Capitalism, Economic Status)
+* **Parameter (s):** [Indicators], [Historical Trajectories], [Interdependence] // [指标], [历史轨迹], [相互依存]
+
+#### **[ID: 029] 生产 // Production**
+* **Encoding:** `PRO-ECO-029`
+* **Overview:** 人类通过劳动改造自然，创造物质财富的过程。
+* **Key Word (s):** 生产, 劳动, 物质财富, 改造自然 (Production, Labor, Material Wealth, Transforming Nature)
+* **Parameter (s):** [Factors], [Process], [Outcome] // [要素], [过程], [结果]
+
+#### **[ID: 030] 生产关系 // Production Relations**
+* **Encoding:** `PRO-REL-030`
+* **Overview:** 人们在物质资料生产过程中形成的社会关系，包括所有制关系、分工协作关系和分配关系。
+* **Key Word (s):** 生产关系, 所有制, 分工, 分配 (Production Relations, Ownership, Division of Labor, Distribution)
+* **Parameter (s):** [Forms], [Impact on Production], [Historical Evolution] // [形式], [对生产的影响], [历史演变]
+
+#### **[ID: 031] 生产力和生产关系 // Productive Forces and Production Relations**
+* **Encoding:** `FOR-REL-031`
+* **Overview:** 生产力是改造自然的能力，生产关系是人们在生产中的社会关系；二者相互作用，构成生产方式。
+* **Key Word (s):** 生产力, 生产关系, 生产方式, 相互作用 (Productive Forces, Production Relations, Mode of Production, Interaction)
+* **Parameter (s):** [Relationship Dynamics], [Development Stages], [Contradictions] // [关系动力学], [发展阶段], [矛盾]
+
+#### **[ID: 032] 生产资料 // Means of Production**
+* **Encoding:** `MEA-PRO-032`
+* **Overview:** 进行物质资料生产所必需的物质条件，包括劳动资料（工具、机器等）和劳动对象（原材料等）。
+* **Key Word (s):** 生产资料, 劳动资料, 劳动对象, 物质条件 (Means of Production, Instruments of Labor, Objects of Labor, Material Conditions)
+* **Parameter (s):** [Components], [Ownership], [Technological Level] // [组成部分], [所有制], [技术水平]
+
+#### **[ID: 033] 生产方式 // Mode of Production**
+* **Encoding:** `MOD-PRO-033`
+* **Overview:** 特定历史时期社会赖以存在和发展的一切物质条件的综合，由生产力和生产关系构成。
+* **Key Word (s):** 生产方式, 生产力, 生产关系, 社会形态 (Mode of Production, Productive Forces, Production Relations, Social Formation)
+* **Parameter (s):** [Defining Elements], [Historical Types], [Transition Dynamics] // [定义要素], [历史类型], [转变动力学]
+
+#### **[ID: 034] 生产劳动和非生产劳动 // Productive and Unproductive Labor**
+* **Encoding:** `PRO-UNP-LAB-034`
+* **Overview:** 生产劳动指创造剩余价值的劳动，非生产劳动指不直接创造剩余价值的劳动。这种区分在资本主义分析中具有重要意义。
+* **Key Word (s)::** 生产劳动, 非生产劳动, 剩余价值, 资本主义 (Productive Labor, Unproductive Labor, Surplus Value, Capitalism)
+* **Parameter (s):** [Criteria for Distinction], [Economic Function], [Social Role] // [区分标准], [经济功能], [社会作用]
+
+#### **[ID: 035] 生产价格和转化问题 // Prices of Production and the Transformation Problem**
+* **Encoding:** `PRI-TRA-035`
+* **Overview:** 马克思经济学中的一个理论问题，探讨价值如何转化为生产价格，以及不同行业利润率趋于平均化的过程。
+* **Key Word (s):** 生产价格, 转化问题, 价值, 利润率 (Prices of Production, Transformation Problem, Value, Rate of Profit)
+* **Parameter (s):** [Theoretical Model], [Conversion Process], [Critiques] // [理论模型], [转化过程], [批判]
+
+#### **[ID: 036] 生产过剩 // Overproduction**
+* **Encoding:** `OVE-PRO-036`
+* **Overview:** 资本主义经济危机的一种表现，指社会生产出的商品超过了有支付能力的社会需求。
+* **Key Word (s):** 生产过剩, 经济危机, 需求, 供给 (Overproduction, Economic Crisis, Demand, Supply)
+* **Parameter (s):** [Causes], [Consequences], [Cyclical Nature] // [原因], [后果], [周期性]
+
+#### **[ID: 037] 地租 // Ground Rent**
+* **Encoding:** `GRO-REN-037`
+* **Overview:** 土地所有者凭借土地所有权获得的收入，是剩余价值的一部分在农业部门的特殊形式。
+* **Key Word (s)::** 地租, 土地所有权, 剩余价值, 农业 (Ground Rent, Land Ownership, Surplus Value, Agriculture)
+* **Parameter (s):** [Forms], [Determination], [Economic Role] // [形式], [决定因素], [经济作用]
+
+#### **[ID: 038] 地产和地租 // Landed Property and Ground Rent**
+* **Encoding:** `LAN-REN-038`
+* **Overview:** 土地所有权作为一种财产形式，以及由此产生的地租收入，是资本主义经济中的重要组成部分。
+* **Key Word (s):** 地产, 地租, 所有权, 农业 (Landed Property, Ground Rent, Ownership, Agriculture)
+* **Parameter (s):** [Relationship], [Historical Development], [Economic Impact] // [关系], [历史发展], [经济影响]
+
+#### **[ID: 039] 价值 // Value**
+* **Encoding:** `VAL-ECO-039`
+* **Overview:** 商品凝结的人类抽象劳动，是商品交换的基础。
+* **Key Word (s):** 价值, 劳动, 商品, 交换 (Value, Labor, Commodity, Exchange)
+* **Parameter (s):** [Source], [Measurement], [Forms] // [来源], [衡量], [形式]
+
+#### **[ID: 040] 价值和价格 // Value and Price**
+* **Encoding:** `VAL-PRI-040`
+* **Overview:** 价值是商品的内在属性（由劳动决定），价格是价值的货币表现，受供求关系等因素影响而围绕价值波动。
+* **Key Word (s):** 价值, 价格, 劳动, 供求 (Value, Price, Labor, Supply and Demand)
+* **Parameter (s):** [Relationship], [Determinants of Price], [Market Dynamics] // [关系], [价格决定因素], [市场动态]
+
+#### **[ID: 041] 交换 // Exchange**
+* **Encoding:** `EXC-ECO-041`
+* **Overview:** 商品所有者之间相互让渡商品所有权的行为，是商品经济的基本环节。
+* **Key Word (s):** 交换, 商品, 市场, 贸易 (Exchange, Commodity, Market, Trade)
+* **Parameter (s):** [Forms], [Conditions], [Economic Function] // [形式], [条件], [经济功能]
+
+#### **[ID: 042] 财产 // Property**
+* **Encoding:** `PRO-LEG-042`
+* **Overview:** 对物质资料的占有关系，是生产关系的核心，决定了社会成员在经济中的地位。
+* **Key Word (s):** 财产, 所有权, 生产关系, 占有 (Property, Ownership, Production Relations, Possession)
+* **Parameter (s):** [Forms], [Legal Framework], [Social Implications] // [形式], [法律框架], [社会含义]
+
+#### **[ID: 043] 利润 // Profit**
+* **Encoding:** `PRO-ECO-043`
+* **Overview:** 资本家在商品销售后获得的超过其成本的余额，是剩余价值的转化形式。
+* **Key Word (s)::** 利润, 剩余价值, 资本家, 收益 (Profit, Surplus Value, Capitalist, Revenue)
+* **Parameter (s):** [Source], [Calculation], [Rate] // [来源], [计算], [利润率]
+
+#### **[ID: 044] 劳动力 // Labor Power**
+* **Encoding:** `LAB-POW-044`
+* **Overview:** 人的体力和脑力的总和，是商品生产者进行生产的能力。在资本主义下，劳动力成为商品。
+* **Key Word (s):** 劳动力, 劳动, 商品, 资本主义 (Labor Power, Labor, Commodity, Capitalism)
+* **Parameter (s):** [Nature], [Value], [Use] // [性质], [价值], [使用]
+
+#### **[ID: 045] 劳动过程 // Labor Process**
+* **Encoding:** `LAB-PRO-045`
+* **Overview:** 劳动者运用劳动资料改造劳动对象，创造使用价值的过程。
+* **Key Word (s):** 劳动过程, 劳动者, 劳动资料, 劳动对象 (Labor Process, Worker, Instruments of Labor, Objects of Labor)
+* **Parameter (s):** [Components], [Dynamics], [Social Organization] // [组成部分], [动力学], [社会组织]
+
+#### **[ID: 046] 利息 // Interest**
+* **Encoding:** `INT-FIN-046`
+* **Overview:** 货币资本所有者凭借资本所有权从借款人那里获得的收入，是剩余价值的一部分。
+* **Key Word (s):** 利息, 货币资本, 剩余价值, 借贷 (Interest, Money Capital, Surplus Value, Lending)
+* **Parameter (s):** [Rate Determination], [Economic Function], [Relationship to Profit] // [利率决定], [经济功能], [与利润的关系]
+
+#### **[ID: 047] 利润率趋于下降 // Tendency of the Rate of Profit to Fall**
+* **Encoding:** `PRO-FAL-047`
+* **Overview:** 资本主义发展过程中，由于资本有机构成提高，剩余价值率不变或提高不足以抵消其影响，导致平均利润率长期存在下降趋势。
+* **Key Word (s):** 利润率趋于下降, 资本有机构成, 剩余价值率, 资本主义 (Tendency of the Rate of Profit to Fall, Organic Composition of Capital, Rate of Surplus Value, Capitalism)
+* **Parameter (s):** [Underlying Causes], [Counteracting Factors], [Theoretical Significance] // [根本原因], [抵消因素], [理论意义]
+
+#### **[ID: 048] 劳动力的价值 // Value of Labor Power**
+* **Encoding:** `VAL-LAB-048`
+* **Overview:** 维持劳动力生存和再生产所必需的生活资料的价值，是劳动力这种商品的价值。
+* **Key Word (s):** 劳动力的价值, 劳动力, 生活资料, 价值 (Value of Labor Power, Labor Power, Means of Subsistence, Value)
+* **Parameter (s):** [Determination], [Historical and Social Factors], [Relationship to Wages] // [决定因素], [历史和社会因素], [与工资的关系]
+
+#### **[ID: 049] 劳动后备军 // Reserve Army of Labor**
+* **Encoding:** `RES-ARM-049`
+* **Overview:** 资本主义制度下，失业或半失业的工人队伍，为资本家提供了廉价劳动力来源，并对在职工人形成竞争压力。
+* **Key Word (s):** 劳动后备军, 失业, 劳动力, 资本主义 (Reserve Army of Labor, Unemployment, Labor Force, Capitalism)
+* **Parameter (s):** [Formation Mechanisms], [Economic Function], [Social Consequences] // [形成机制], [经济功能], [社会后果]
+
+#### **[ID: 050] 社会必要劳动 // Socially Necessary Labor**
+* **Encoding:** `SOC-NEC-LAB-050`
+* **Overview:** 在社会正常生产条件下，用平均的劳动熟练程度和劳动强度生产某种使用价值所需要的劳动时间。它是决定商品价值量的尺度。
+* **Key Word (s):** 社会必要劳动, 价值量, 劳动时间, 商品 (Socially Necessary Labor, Magnitude of Value, Labor Time, Commodity)
+* **Parameter (s):** [Determination], [Role in Value Theory], [Influence on Production] // [决定因素], [在价值理论中的作用], [对生产的影响]
+
+#### **[ID: 051] 抽象劳动 // Abstract Labor**
+* **Encoding:** `ABS-LAB-051`
+* **Overview:** 撇开劳动的具体形式和内容，仅就其支出人类体力和脑力而言的无差别的人类劳动。它是商品价值的实体。
+* **Key Word (s):** 抽象劳动, 价值, 劳动, 商品 (Abstract Labor, Value, Labor, Commodity)
+* **Parameter (s):** [Nature], [Role in Value Creation], [Distinction from Concrete Labor] // [性质], [在价值创造中的作用], [与具体劳动的区别]
+
+#### **[ID: 052] 非生产劳动 // Unproductive Labor**
+* **Encoding:** `UNP-LAB-052`
+* **Overview:** 不直接创造剩余价值的劳动，例如服务业、商业中的部分劳动等。
+* **Key Word (s):** 非生产劳动, 剩余价值, 劳动, 服务业 (Unproductive Labor, Surplus Value, Labor, Service Sector)
+* **Parameter (s):** [Criteria for Distinction], [Economic Function], [Relationship to Capital] // [区分标准], [经济功能], [与资本的关系]
+
+#### **[ID: 053] 货币 // Money**
+* **Encoding:** `MON-FIN-053`
+* **Overview:** 从商品中分离出来固定充当一般等价物的特殊商品，具有价值尺度、流通手段、贮藏手段、支付手段和世界货币等职能。
+* **Key Word (s)::** 货币, 商品, 一般等价物, 职能 (Money, Commodity, General Equivalent, Functions)
+* **Parameter (s):** [Functions], [Forms], [Historical Development] // [职能], [形式], [历史发展]
+
+#### **[ID: 054] 金融资本 // Finance Capital**
+* **Encoding:** `FIN-CAP-054`
+* **Overview:** 垄断时期由银行资本和工业资本融合而成的资本形式，其特点是银行在经济中的作用增强。
+* **Key Word (s):** 金融资本, 银行资本, 工业资本, 垄断 (Finance Capital, Banking Capital, Industrial Capital, Monopoly)
+* **Parameter (s):** [Formation], [Characteristics], [Role in Imperialism] // [形成], [特征], [在帝国主义中的作用]
+
+#### **[ID: 055] 经济学 // Economics**
+* **Encoding:** `ECO-GEN-055`
+* **Overview:** 研究人类社会如何组织生产、分配和消费物质财富的社会科学。
+* **Key Word (s):** 经济学, 生产, 分配, 消费 (Economics, Production, Distribution, Consumption)
+* **Parameter (s):** [Scope of Study], [Methodologies], [Schools of Thought] // [研究范围], [方法论], [学派]
+
+#### **[ID: 056] 经济危机 // Economic Crisis**
+* **Encoding:** `ECO-CRI-056`
+* **Overview:** 资本主义再生产过程中周期性爆发的生产过剩危机，表现为商品积压、企业倒闭、工人失业等。
+* **Key Word (s):** 经济危机, 生产过剩, 周期性, 资本主义 (Economic Crisis, Overproduction, Cyclical Nature, Capitalism)
+* **Parameter (s):** [Causes], [Phases], [Impact] // [原因], [阶段], [影响]
+
+#### **[ID: 057] 经济主义 // Economism**
+* **Encoding:** `ECO-ISM-057`
+* **Overview:** 一种倾向，过分强调经济因素在社会发展和革命中的作用，忽视政治、意识形态等其他因素。
+* **Key Word (s):** 经济主义, 经济因素, 政治, 意识形态 (Economism, Economic Factors, Politics, Ideology)
+* **Parameter (s):** [Characteristics], [Critiques], [Historical Examples] // [特征], [批判], [历史示例]
+
+#### **[ID: 058] 垄断资本主义 // Monopoly Capitalism**
+* **Encoding:** `MON-CAP-058`
+* **Overview:** 资本主义发展的高级阶段，其特点是生产和资本高度集中，形成垄断组织并在经济中占据主导地位。
+* **Key Word (s):** 垄断资本主义, 垄断, 资本集中, 帝国主义 (Monopoly Capitalism, Monopoly, Concentration of Capital, Imperialism)
+* **Parameter (s):** [Key Features], [Historical Period], [Economic Dynamics] // [关键特征], [历史时期], [经济动力学]
+
+#### **[ID: 059] 贫困化 // Pauperization**
+* **Encoding:** `PAU-SOC-059`
+* **Overview:** 资本主义制度下，工人阶级和其他劳动人民的物质生活水平和地位相对于资本家而言趋于下降的趋势。
+* **Key Word (s):** 贫困化, 工人阶级, 资本主义, 不平等 (Pauperization, Working Class, Capitalism, Inequality)
+* **Parameter (s):** [Absolute vs. Relative], [Causes], [Social Consequences] // [绝对 vs. 相对], [原因], [社会后果]
+
+#### **[ID: 060] 使用价值 // Use Value**
+* **Encoding:** `USE-VAL-060`
+* **Overview:** 商品能够满足人们某种需要（无论是物质的还是精神的）的属性，是商品的自然属性。
+* **Key Word (s):** 使用价值, 商品, 需要, 属性 (Use Value, Commodity, Needs, Property)
+* **Parameter (s):** [Nature], [Relationship to Exchange Value], [Social Determination] // [性质], [与交换价值的关系], [社会决定性]
+
+#### **[ID: 061] 剥削 // Exploitation**
+* **Encoding:** `EXP-ECO-061`
+* **Overview:** 在阶级社会中，统治阶级无偿占有被统治阶级剩余劳动所创造的剩余价值的现象。
+* **Key Word (s)::** 剥削, 剩余价值, 阶级, 劳动 (Exploitation, Surplus Value, Class, Labor)
+* **Parameter (s):** [Mechanism], [Forms], [Social Impact] // [机制], [形式], [社会影响]
+
+#### **[ID: 062] 拜物教 // Fetishism**
+* **Encoding:** `FET-SOC-062`
+* **Overview:** 指在商品经济条件下，人与人之间的社会关系表现为物与物之间的关系，商品具有神秘属性的现象。
+* **Key Word (s):** 拜物教, 商品, 社会关系, 物化 (Fetishism, Commodity, Social Relations, Reification)
+* **Parameter (s):** [Origin], [Manifestations], [Critique] // [起源], [表现], [批判]
+
+#### **[ID: 063] 信用和虚拟资本 // Credit and Fictitious Capital**
+* **Encoding:** `CRE-FIC-063`
+* **Overview:** 信用是资本主义经济中的一种借贷关系，虚拟资本是没有实际价值基础、以预期收益为依据的资本，如股票、债券等。
+* **Key Word (s):** 信用, 虚拟资本, 资本主义, 金融 (Credit, Fictitious Capital, Capitalism, Finance)
+* **Parameter (s):** [Nature of Credit], [Forms of Fictitious Capital], [Role in Crises] // [信用的性质], [虚拟资本的形式], [在危机中的作用]
+
+#### **[ID: 064] 商业资本 // Commercial Capital**
+* **Encoding:** `COM-CAP-064`
+* **Overview:** 执行商品流通职能的资本形式，通过买卖商品实现利润。
+* **Key Word (s):** 商业资本, 流通, 商品, 利润 (Commercial Capital, Circulation, Commodity, Profit)
+* **Parameter (s):** [Function], [Source of Profit], [Relationship to Industrial Capital] // [功能], [利润来源], [与工业资本的关系]
+
+#### **[ID: 065] 银行 // Banks**
+* **Encoding:** `BAN-FIN-065`
+* **Overview:** 吸收存款、发放贷款、办理结算等业务的金融机构，在资本主义经济中扮演重要角色。
+* **Key Word (s)::** 银行, 金融, 资本, 信用 (Banks, Finance, Capital, Credit)
+* **Parameter (s):** [Functions], [Types], [Role in Economy] // [功能], [类型], [在经济中的作用]
+
+#### **[ID: 066] 银行资本和利息 // Bank Capital and Interest**
+* **Encoding:** `BAN-INT-066`
+* **Overview:** 银行拥有的资本及其通过贷款等业务获得的利息收入，是金融资本的重要组成部分。
+* **Key Word (s):** 银行资本, 利息, 金融资本, 银行 (Bank Capital, Interest, Finance Capital, Banks)
+* **Parameter (s):** [Relationship], [Determination of Interest Rate], [Economic Significance] // [关系], [利率决定], [经济意义]
+
+#### **[ID: 067] 庸俗经济学 // Vulgar Economics**
+* **Encoding:** `VUL-ECO-067`
+* **Overview:** 那些停留在事物表面现象，未能揭示资本主义经济内在本质和规律的经济学理论。
+* **Key Word (s):** 庸俗经济学, 表面现象, 本质, 资本主义 (Vulgar Economics, Surface Phenomena, Essence, Capitalism)
+* **Parameter (s):** [Characteristics], [Critique], [Historical Examples] // [特征], [批判], [历史示例]
+
+#### **[ID: 068] 剩余价值 // Surplus Value**
+* **Encoding:** `SUR-VAL-068`
+* **Overview:** 由雇佣工人的剩余劳动所创造的，被资本家无偿占有的那部分价值。它是资本家利润的来源。
+* **Key Word (s):** 剩余价值, 剩余劳动, 剥削, 利润 (Surplus Value, Surplus Labor, Exploitation, Profit)
+* **Parameter (s):** [Source], [Calculation], [Forms] // [来源], [计算], [形式]
+
+#### **[ID: 069] 剩余价值和利润 // Surplus Value and Profit**
+* **Encoding:** `SUR-PRO-069`
+* **Overview:** 剩余价值是资本家利润的本质来源，利润是剩余价值的转化形式，表现为全部垫付资本的收益。
+* **Key Word (s):** 剩余价值, 利润, 本质, 形式 (Surplus Value, Profit, Essence, Form)
+* **Parameter (s):** [Relationship], [Transformation], [Economic Significance] // [关系], [转化], [经济意义]
+
+### 2.2. [SUB-INDEX: 02-02] Capital and Accumulation // 资本与积累
+
+#### **[ID: 070] 公司 // Company**
+* **Encoding:** `COM-ECO-070`
+* **Overview:** 资本主义制度下，为了组织生产和经营而形成的具有独立法人资格的经济组织。
+* **Key Word (s)::** 公司, 经济组织, 资本主义, 经营 (Company, Economic Organization, Capitalism, Operation)
+* **Parameter (s):** [Legal Structure], [Ownership], [Economic Role] // [法律结构], [所有权], [经济作用]
+
+#### **[ID: 071] 卡特尔和托拉斯 // Cartels and Trusts**
+* **Encoding:** `CAR-TRU-071`
+* **Overview:** 资本主义垄断组织的不同形式。卡特尔是企业间的协定，托拉斯是企业合并形成的垄断体。
+* **Key Word (s):** 卡特尔, 托拉斯, 垄断组织, 资本主义 (Cartels, Trusts, Monopoly Organization, Capitalism)
+* **Parameter (s):** [Structure], [Function], [Impact on Competition] // [结构], [功能], [对竞争的影响]
+
+#### **[ID: 072] 有组织的资本主义 // Organized Capitalism**
+* **Encoding:** `ORG-CAP-072`
+* **Overview:** 指资本主义发展中，国家干预增强、垄断组织普遍存在、经济活动更具计划性和协调性的阶段或形式。
+* **Key Word (s):** 有组织的资本主义, 国家干预, 垄断, 计划性 (Organized Capitalism, State Intervention, Monopoly, Planning)
+* **Parameter (s):** [Historical Period], [Key Features], [Role of State] // [历史时期], [关键特征], [国家的作用]
+
+#### **[ID: 073] 股份公司 // Joint-Stock Company**
+* **Encoding:** `JOI-STO-073`
+* **Overview:** 资本由股份构成，股东按股份比例享有权利和承担责任的公司形式，是资本主义企业的主要组织形式。
+* **Key Word (s):** 股份公司, 股份, 资本, 企业 (Joint-Stock Company, Shares, Capital, Enterprise)
+* **Parameter (s):** [Structure], [Ownership], [Advantages and Disadvantages] // [结构], [所有权], [优缺点]
+
+#### **[ID: 074] 国家垄断资本主义 // State Monopoly Capitalism**
+* **Encoding:** `STA-MON-074`
+* **Overview:** 垄断资本与国家政权相结合的资本主义形式，国家通过各种方式干预经济，服务于垄断资本的利益。
+* **Key Word (s):** 国家垄断资本主义, 国家干预, 垄断资本, 结合 (State Monopoly Capitalism, State Intervention, Monopoly Capital, Integration)
+* **Parameter (s):** [Characteristics], [Historical Context], [Economic Policies] // [特征], [历史背景], [经济政策]
+
+#### **[ID: 075] 跨国公司 // Transnational Corporation**
+* **Encoding:** `TRA-COR-075`
+* **Overview:** 在两个或两个以上国家进行经营活动的公司，是当代垄断资本主义的重要载体。
+* **Key Word (s):** 跨国公司, 垄断资本主义, 全球化, 经营 (Transnational Corporation, Monopoly Capitalism, Globalization, Operation)
+* **Parameter (s):** [Structure], [Global Reach], [Economic and Political Influence] // [结构], [全球范围], [经济和政治影响]
+
+#### **[ID: 076] 积累 // Accumulation**
+* **Encoding:** `ACC-ECO-076`
+* **Overview:** 将剩余价值转化为资本，用于扩大再生产的过程。
+* **Key Word (s)::** 积累, 剩余价值, 资本, 再生产 (Accumulation, Surplus Value, Capital, Reproduction)
+* **Parameter (s):** [Process], [Sources], [Impact on Capitalism] // [过程], [来源], [对资本主义的影响]
+
+#### **[ID: 077] 资本的形态和收益 // Forms and Revenues of Capital**
+* **Encoding:** `FOR-REV-077`
+* **Overview:** 资本在运动过程中表现为不同的形态（如货币资本、生产资本、商品资本），并产生相应的收益（如利息、利润、地租）。
+* **Key Word (s):** 资本形态, 收益, 货币资本, 生产资本, 商品资本 (Forms of Capital, Revenues, Money Capital, Productive Capital, Commodity Capital)
+* **Parameter (s):** [Types of Forms], [Sources of Revenue], [Circulation Process] // [形态类型], [收益来源], [流通过程]
+
+#### **[ID: 078] 资本价值构成 // Value Composition of Capital**
+* **Encoding:** `VAL-COM-078`
+* **Overview:** 构成总资本的不变资本和可变资本之间的比例，按价值计算。
+* **Key Word (s):** 资本价值构成, 不变资本, 可变资本, 比例 (Value Composition of Capital, Constant Capital, Variable Capital, Proportion)
+* **Parameter (s):** [Definition], [Calculation], [Relationship to Organic Composition] // [定义], [计算], [与有机构成的关系]
+
+#### **[ID: 079] 资本有机构成 // Organic Composition of Capital**
+* **Encoding:** `ORG-COM-079`
+* **Overview:** 构成总资本的不变资本和可变资本之间的比例，按物质形式计算，并反映技术水平。
+* **Key Word (s):** 资本有机构成, 不变资本, 可变资本, 技术水平 (Organic Composition of Capital, Constant Capital, Variable Capital, Technological Level)
+* **Parameter (s):** [Definition], [Relationship to Value Composition], [Impact on Profit Rate] // [定义], [与价值构成的关系], [对利润率的影响]
+
+#### **[ID: 080] 资本 // Capital**
+* **Encoding:** `CAP-GEN-080`
+* **Overview:** 能够带来剩余价值的价值，是资本主义生产关系的体现。
+* **Key Word (s)::** 资本, 剩余价值, 生产关系, 价值 (Capital, Surplus Value, Production Relations, Value)
+* **Parameter (s):** [Nature], [Forms], [Circulation] // [性质], [形式], [流通]
+
+#### **[ID: 081] 资本集中和积聚 // Concentration and Centralization of Capital**
+* **Encoding:** `CON-CEN-081`
+* **Overview:** 资本积聚是个别资本通过积累剩余价值而增大，资本集中是现有资本通过合并等方式而增大。二者导致资本规模扩大。
+* **Key Word (s):** 资本集中, 资本积聚, 积累, 合并 (Concentration of Capital, Centralization of Capital, Accumulation, Merger)
+* **Parameter (s):** [Mechanisms], [Impact on Market Structure], [Historical Trend] // [机制], [对市场结构的影响], [历史趋势]
+
+#### **[ID: 082] 资本主义 // Capitalism**
+* **Encoding:** `CAP-SYS-082`
+* **Overview:** 一种经济社会制度，其特点是生产资料私有制、雇佣劳动、商品生产和市场经济，以追求利润为主要动力。
+* **Key Word (s):** 资本主义, 私有制, 雇佣劳动, 市场经济 (Capitalism, Private Ownership, Wage Labor, Market Economy)
+* **Parameter (s):** [Defining Features], [Historical Stages], [Internal Contradictions] // [定义特征], [历史阶段], [内在矛盾]
+
+#### **[ID: 083] 竞争 // Competition**
+* **Encoding:** `COM-ECO-083`
+* **Overview:** 资本家之间为了争夺市场、原料、劳动力等而展开的经济斗争，是资本主义的基本特征之一。
+* **Key Word (s)::** 竞争, 资本家, 市场, 斗争 (Competition, Capitalists, Market, Struggle)
+* **Parameter (s):** [Forms], [Impact on Economy], [Relationship to Monopoly] // [形式], [对经济的影响], [与垄断的关系]
+
+#### **[ID: 084] 商品 // Commodity**
+* **Encoding:** `COM-ECO-084`
+* **Overview:** 用于交换的劳动产品，具有使用价值和价值二重性。
+* **Key Word (s)::** 商品, 劳动产品, 使用价值, 价值 (Commodity, Product of Labor, Use Value, Value)
+* **Parameter (s):** [Characteristics], [Dual Nature], [Role in Capitalism] // [特征], [二重性], [在资本主义中的作用]
+
+#### **[ID: 085] 商品拜物教 // Commodity Fetishism**
+* **Encoding:** `COM-FET-085`
+* **Overview:** 在商品经济中，商品似乎具有独立生命和神秘属性，掩盖了商品生产者之间的社会关系。
+* **Key Word (s):** 商品拜物教, 商品, 社会关系, 物化 (Commodity Fetishism, Commodity, Social Relations, Reification)
+* **Parameter (s):** [Origin], [Manifestations], [Social Consequences] // [起源], [表现], [社会后果]
+
+### 2.3. [SUB-INDEX: 02-03] Other Economic Concepts // 其他经济概念
+
+#### **[ID: 086] 工场手工业 // Manufacture**
+* **Encoding:** `MAN-ECO-086`
+* **Overview:** 资本主义发展早期的一种生产组织形式，以手工业劳动为基础，通过分工提高效率。
+* **Key Word (s):** 工场手工业, 手工业, 分工, 资本主义 (Manufacture, Handicraft, Division of Labor, Capitalism)
+* **Parameter (s):** [Characteristics], [Historical Role], [Transition to Machinery] // [特征], [历史作用], [向机器大工业的过渡]
+
+#### **[ID: 087] 合作社 // Cooperatives**
+* **Encoding:** `COO-ECO-087`
+* **Overview:** 劳动者或其他群体为了共同经济利益而自愿组成的互助性经济组织。
+* **Key Word (s)::** 合作社, 互助, 经济组织, 合作 (Cooperatives, Mutual Aid, Economic Organization, Cooperation)
+* **Parameter (s):** [Principles], [Types], [Role in Different Systems] // [原则], [类型], [在不同制度中的作用]
+
+#### **[ID: 088] 机器和大工业 // Machinery and Large-Scale Industry**
+* **Encoding:** `MAC-IND-088`
+* **Overview:** 以机器体系为基础的大规模工业生产，是资本主义生产方式成熟阶段的标志。
+* **Key Word (s):** 机器, 大工业, 资本主义, 生产方式 (Machinery, Large-Scale Industry, Capitalism, Mode of Production)
+* **Parameter (s):** [Technological Basis], [Impact on Labor], [Economic Transformation] // [技术基础], [对劳动的影响], [经济转型]
+
+#### **[ID: 089] 技术 // Technology**
+* **Encoding:** `TEC-GEN-089`
+* **Overview:** 人类改造自然和社会的手段和能力，包括生产技术和管理技术等。
+* **Key Word (s)::** 技术, 改造自然, 生产, 工具 (Technology, Transforming Nature, Production, Tools)
+* **Parameter (s):** [Role in Production], [Relationship to Science], [Social Impact] // [在生产中的作用], [与科学的关系], [社会影响]
+
+#### **[ID: 090] 自动化 // Automation**
+* **Encoding:** `AUT-TEC-090`
+* **Overview:** 生产过程中机器设备自动运行和控制的趋势，是技术发展的重要方向。
+* **Key Word (s)::** 自动化, 机器, 生产过程, 技术 (Automation, Machinery, Production Process, Technology)
+* **Parameter (s):** [Technological Basis], [Impact on Labor], [Economic and Social Consequences] // [技术基础], [对劳动的影响], [经济和社会后果]
+
+#### **[ID: 091] 再生产 // Reproduction**
+* **Encoding:** `REP-ECO-091`
+* **Overview:** 物质资料生产过程的不断重复和更新，包括简单再生产（规模不变）和扩大再生产（规模扩大）。
+* **Key Word (s)::** 再生产, 生产过程, 简单再生产, 扩大再生产 (Reproduction, Production Process, Simple Reproduction, Expanded Reproduction)
+* **Parameter (s):** [Forms], [Conditions], [Role in Economic System] // [形式], [条件], [在经济体系中的作用]
+
+#### **[ID: 092] 再生产公式 // Reproduction Schemes**
+* **Encoding:** `REP-SCH-092`
+* **Overview:** 马克思在《资本论》中提出的用于分析社会总资本再生产过程的理论模型。
+* **Key Word (s):** 再生产公式, 资本论, 再生产, 模型 (Reproduction Schemes, Capital, Reproduction, Model)
+* **Parameter (s):** [Components], [Conditions for Equilibrium], [Analytical Purpose] // [组成部分], [均衡条件], [分析目的]
+
+#### **[ID: 093] 流通 // Circulation**
+* **Encoding:** `CIR-ECO-093`
+* **Overview:** 商品从生产者到消费者转移的过程，包括买和卖等环节。
+* **Key Word (s)::** 流通, 商品, 市场, 交换 (Circulation, Commodity, Market, Exchange)
+* **Parameter (s):** [Process], [Economic Function], [Relationship to Production] // [过程], [经济功能], [与生产的关系]
+
+#### **[ID: 094] 消费 // Consumption**
+* **Encoding:** `CON-ECO-094`
+* **Overview:** 人们利用物质资料满足自身需要的过程，是社会再生产的最终环节。
+* **Key Word (s)::** 消费, 需要, 物质资料, 再生产 (Consumption, Needs, Material Goods, Reproduction)
+* **Parameter (s):** [Types], [Determinants], [Role in Economy] // [类型], [决定因素], [在经济中的作用]
+
+#### **[ID: 095] 消费不足 // Underconsumption**
+* **Encoding:** `UND-CON-095`
+* **Overview:** 一种经济理论，认为由于工人阶级收入相对不足，导致社会总需求小于总供给，引发经济危机。
+* **Key Word (s):** 消费不足, 经济危机, 总需求, 总供给 (Underconsumption, Economic Crisis, Aggregate Demand, Aggregate Supply)
+* **Parameter (s):** [Theoretical Basis], [Relationship to Crises], [Policy Implications] // [理论基础], [与危机的关系], [政策含义]
+
+## [INDEX: 03] Sociological and Political Concepts // 社会学与政治概念
+
+### 3.1. [SUB-INDEX: 03-01] Class and Social Structure // 阶级与社会结构
+
+#### **[ID: 096] 人口 // Population**
+* **Encoding:** `POP-SOC-096`
+* **Overview:** 特定区域内居住的人的总和，其数量、结构和分布对社会经济发展有重要影响。
+* **Key Word (s)::** 人口, 社会, 经济, 结构 (Population, Society, Economy, Structure)
+* **Parameter (s):** [Size], [Growth Rate], [Composition], [Distribution] // [规模], [增长率], [构成], [分布]
+
+#### **[ID: 097] 工人贵族 // Labor Aristocracy**
+* **Encoding:** `LAB-ARI-097`
+* **Overview:** 工人阶级中收入和地位相对较高的一部分，通常是熟练工人或工会领导人，有时被认为容易受到资产阶级思想的影响。
+* **Key Word (s):** 工人贵族, 工人阶级, 收入, 地位 (Labor Aristocracy, Working Class, Income, Status)
+* **Parameter (s):** [Characteristics], [Social Role], [Political Tendencies] // [特征], [社会作用], [政治倾向]
+
+#### **[ID: 098] 工人阶级 // Working Class**
+* **Encoding:** `WOR-CLA-098`
+* **Overview:** 在资本主义制度下，主要依靠出卖劳动力为生，不占有生产资料的社会阶级。
+* **Key Word (s):** 工人阶级, 劳动力, 生产资料, 资本主义 (Working Class, Labor Power, Means of Production, Capitalism)
+* **Parameter (s):** [Definition], [Composition], [Historical Role] // [定义], [构成], [历史作用]
+
+#### **[ID: 099] 上层建筑 // Superstructure**
+* **Encoding:** `SUP-SOC-099`
+* **Overview:** 社会的政治、法律、文化、思想等领域，建立在经济基础之上，并反作用于经济基础。
+* **Key Word (s):** 上层建筑, 经济基础, 政治, 文化, 思想 (Superstructure, Economic Base, Politics, Culture, Ideology)
+* **Parameter (s):** [Components], [Relationship to Base], [Function] // [组成部分], [与基础的关系], [功能]
+
+#### **[ID: 100] 小资产阶级 // Petty Bourgeoisie**
+* **Encoding:** `PET-BOU-100`
+* **Overview:** 介于资产阶级和无产阶级之间的社会阶层，通常拥有少量生产资料，自己也参与劳动，如小业主、个体户等。
+* **Key Word (s):** 小资产阶级, 资产阶级, 无产阶级, 生产资料 (Petty Bourgeoisie, Bourgeoisie, Proletariat, Means of Production)
+* **Parameter (s):** [Definition], [Economic Position], [Political Ambivalence] // [定义], [经济地位], [政治摇摆性]
+
+#### **[ID: 101] 个人 // Individual**
+* **Encoding:** `IND-SOC-101`
+* **Overview:** 具有独立意识和能动性的社会成员，其发展受到社会关系的制约，也在一定程度上塑造社会关系。
+* **Key Word (s)::** 个人, 社会关系, 意识, 能动性 (Individual, Social Relations, Consciousness, Agency)
+* **Parameter (s):** [Relationship to Society], [Freedom and Constraint], [Development] // [与社会的关系], [自由与制约], [发展]
+
+#### **[ID: 102] 无产阶级 // Proletariat**
+* **Encoding:** `PRO-CLA-102`
+* **Overview:** 在资本主义制度下，丧失生产资料，不得不靠出卖劳动力为生的现代雇佣工人阶级。
+* **Key Word (s)::** 无产阶级, 雇佣劳动, 生产资料, 资本主义 (Proletariat, Wage Labor, Means of Production, Capitalism)
+* **Parameter (s):** [Definition], [Historical Role], [Class Consciousness] // [定义], [历史作用], [阶级意识]
+
+#### **[ID: 103] 中等阶级 // Middle Class**
+* **Encoding:** `MID-CLA-103`
+* **Overview:** 在马克思主义经典分析中，这个概念不如资产阶级和无产阶级明确，通常指介于两大阶级之间的社会群体，如专业人士、管理人员等。
+* **Key Word (s):** 中等阶级, 阶级, 社会结构, 职业 (Middle Class, Class, Social Structure, Occupation)
+* **Parameter (s):** [Definition Challenges], [Economic Position], [Political Alignment] // [定义挑战], [经济地位], [政治立场]
+
+#### **[ID: 104] 民族资产阶级 // National Bourgeoisie**
+* **Encoding:** `NAT-BOU-104`
+* **Overview:** 在殖民地或半殖民地国家中，与本国民族经济联系紧密，具有一定民族独立倾向的资产阶级。
+* **Key Word (s):** 民族资产阶级, 资产阶级, 民族经济, 殖民地 (National Bourgeoisie, Bourgeoisie, National Economy, Colony)
+* **Parameter (s):** [Historical Context], [Economic Role], [Political Role] // [历史背景], [经济作用], [政治作用]
+
+#### **[ID: 105] 阶级 // Class**
+* **Encoding:** `CLA-SOC-105`
+* **Overview:** 在特定的社会生产体系中，因对生产资料的不同关系而形成的具有不同经济地位的社会集团。
+* **Key Word (s)::** 阶级, 生产资料, 经济地位, 社会集团 (Class, Means of Production, Economic Status, Social Group)
+* **Parameter (s):** [Definition], [Formation], [Role in History] // [定义], [形成], [在历史中的作用]
+
+#### **[ID: 106] 阶级冲突 // Class Conflict**
+* **Encoding:** `CLA-CON-106`
+* **Overview:** 不同阶级之间由于经济利益和政治地位的对立而产生的斗争，是阶级社会发展的直接动力。
+* **Key Word (s):** 阶级冲突, 阶级, 利益, 斗争 (Class Conflict, Class, Interests, Struggle)
+* **Parameter (s):** [Causes], [Forms], [Outcomes] // [原因], [形式], [结果]
+
+#### **[ID: 107] 阶级意识 // Class Consciousness**
+* **Encoding:** `CLA-CON-107`
+* **Overview:** 特定阶级成员对其自身经济地位、共同利益以及与其他阶级关系的自觉认识。
+* **Key Word (s):** 阶级意识, 阶级, 认识, 利益 (Class Consciousness, Class, Consciousness, Interests)
+* **Parameter (s):** [Formation], [Levels], [Role in Revolution] // [形成], [水平], [在革命中的作用]
+
+#### **[ID: 108] 流氓无产阶级 // Lumpenproletariat**
+* **Encoding:** `LUM-PRO-108`
+* **Overview:** 指无产阶级中最底层、最不稳定、脱离正常生产和生活的群体，如流浪汉、小偷、妓女等，通常难以形成阶级意识。
+* **Key Word (s):** 流氓无产阶级, 无产阶级, 底层, 不稳定 (Lumpenproletariat, Proletariat, Underclass, Instability)
+* **Parameter (s):** [Definition], [Social Position], [Political Role] // [定义], [社会地位], [政治作用]
+
+#### **[ID: 109] 资产阶级 // Bourgeoisie**
+* **Encoding:** `BOU-CLA-109`
+* **Overview:** 在资本主义制度下，占有生产资料，并依靠剥削雇佣劳动为生的社会阶级。
+* **Key Word (s):** 资产阶级, 生产资料, 剥削, 雇佣劳动 (Bourgeoisie, Means of Production, Exploitation, Wage Labor)
+* **Parameter (s):** [Definition], [Historical Role], [Economic Power] // [定义], [历史作用], [经济权力]
+
+### 3.2. [SUB-INDEX: 03-02] State, Politics, and Revolution // 国家、政治与革命
+
+#### **[ID: 110] 无产阶级专政 // Dictatorship of the Proletariat**
+* **Encoding:** `DIC-PRO-110`
+* **Overview:** 马克思主义国家学说中的概念，指无产阶级通过革命推翻资产阶级统治后建立的国家政权，用于镇压剥削阶级的反抗和建设社会主义。
+* **Key Word (s):** 无产阶级专政, 无产阶级, 国家, 革命, 社会主义 (Dictatorship of the Proletariat, Proletariat, State, Revolution, Socialism)
+* **Parameter (s):** [Purpose], [Forms], [Historical Examples] // [目的], [形式], [历史示例]
+
+#### **[ID: 111] 无政府主义 // Anarchism**
+* **Encoding:** `ANA-POL-111`
+* **Overview:** 一种政治哲学，主张废除一切形式的国家和强制性权威，建立一个没有政府的自由社会。
+* **Key Word (s):** 无政府主义, 国家, 权威, 自由 (Anarchism, State, Authority, Freedom)
+* **Parameter (s):** [Core Principles], [Relationship to Marxism], [Varieties] // [核心原则], [与马克思主义的关系], [类型]
+
+#### **[ID: 112] 布尔什维主义 // Bolshevism**
+* **Encoding:** `BOL-POL-112`
+* **Overview:** 以列宁为代表的俄国社会民主工党多数派的政治思想和组织原则，强调高度集中的政党领导和暴力革命。
+* **Key Word (s):** 布尔什维主义, 列宁, 政党, 革命 (Bolshevism, Lenin, Political Party, Revolution)
+* **Parameter (s):** [Key Features], [Historical Context], [Impact] // [关键特征], [历史背景], [影响]
+
+#### **[ID: 113] 布朗基主义 // Blanquism**
+* **Encoding:** `BLA-POL-113`
+* **Overview:** 以布朗基为代表的一种革命理论，强调少数革命精英通过密谋和突然袭击夺取政权。
+* **Key Word (s):** 布朗基主义, 革命, 精英, 密谋 (Blanquism, Revolution, Elite, Conspiracy)
+* **Parameter (s):** [Tactics], [Organizational Structure], [Critique] // [策略], [组织结构], [批判]
+
+#### **[ID: 114] 国家 // State**
+* **Encoding:** `STA-POL-114`
+* **Overview:** 在马克思主义看来，国家是阶级统治的工具，是维护统治阶级利益的特殊权力机构。
+* **Key Word (s)::** 国家, 阶级统治, 权力, 机构 (State, Class Rule, Power, Institution)
+* **Parameter (s):** [Origin], [Functions], [Withering Away] // [起源], [功能], [消亡]
+
+#### **[ID: 115] 官僚机构 // Bureaucracy**
+* **Encoding:** `BUR-POL-115`
+* **Overview:** 具有层级结构、分工明确、按规则运作的管理体系，在现代国家和大型组织中普遍存在。
+* **Key Word (s):** 官僚机构, 管理, 层级, 规则 (Bureaucracy, Administration, Hierarchy, Rules)
+* **Parameter (s):** [Characteristics], [Functions], [Critiques] // [特征], [功能], [批判]
+
+#### **[ID: 116] 合法马克思主义 // Legal Marxism**
+* **Encoding:** `LEG-MAR-116`
+* **Overview:** 19 世纪末俄国出现的一种思潮，试图在沙皇专制制度下通过合法途径传播和发展马克思主义，强调资本主义在俄国的进步作用。
+* **Key Word (s):** 合法马克思主义, 俄国, 资本主义, 合法途径 (Legal Marxism, Russia, Capitalism, Legal Means)
+* **Parameter (s):** [Historical Context], [Key Figures], [Theoretical Positions] // [历史背景], [关键人物], [理论立场]
+
+#### **[ID: 117] 委员会 // Committees**
+* **Encoding:** `COM-POL-117`
+* **Overview:** 在革命或社会运动中形成的临时性或常设性组织，用于协调行动、决策或行使权力。
+* **Key Word (s):** 委员会, 组织, 革命, 行动 (Committees, Organization, Revolution, Action)
+* **Parameter (s):** [Structure], [Functions], [Role in Movements] // [结构], [功能], [在运动中的作用]
+
+#### **[ID: 118] 极权主义 // Totalitarianism**
+* **Encoding:** `TOT-POL-118`
+* **Overview:** 一种政治制度，国家对社会生活的各个方面实行全面控制，不允许任何形式的反对派。
+* **Key Word (s):** 极权主义, 国家控制, 政治制度, 压制 (Totalitarianism, State Control, Political System, Repression)
+* **Parameter (s):** [Characteristics], [Ideological Basis], [Historical Examples] // [特征], [意识形态基础], [历史示例]
+
+#### **[ID: 119] 领导权 // Hegemony**
+* **Encoding:** `HEG-POL-119`
+* **Overview:** 指统治阶级不仅通过强制，更通过思想、文化等手段获得被统治阶级的认同和服从，实现其统治的领导地位。
+* **Key Word (s):** 领导权, 统治阶级, 意识形态, 文化 (Hegemony, Ruling Class, Ideology, Culture)
+* **Parameter (s):** [Mechanism], [Role of Consent], [Struggle for Hegemony] // [机制], [同意的作用], [领导权斗争]
+
+#### **[ID: 120] 政党 // Political Party**
+* **Encoding:** `POL-PAR-120`
+* **Overview:** 为了特定政治目标而组织起来的政治团体，旨在通过参与政治过程来影响或控制国家权力。
+* **Key Word (s):** 政党, 政治目标, 国家权力, 组织 (Political Party, Political Goals, State Power, Organization)
+* **Parameter (s):** [Functions], [Structure], [Ideology] // [功能], [结构], [意识形态]
+
+#### **[ID: 121] 修正主义 // Revisionism**
+* **Encoding:** `REV-POL-121`
+* **Overview:** 指对马克思主义基本原理进行修改或否定，通常倾向于通过改良而非革命来实现社会主义。
+* **Key Word (s):** 修正主义, 马克思主义, 改良, 革命 (Revisionism, Marxism, Reform, Revolution)
+* **Parameter (s):** [Theoretical Deviations], [Historical Examples], [Critique] // [理论偏差], [历史示例], [批判]
+
+#### **[ID: 122] 暴力 // Violence**
+* **Encoding:** `VIO-POL-122`
+* **Overview:** 使用武力或强制手段实现政治或社会目的的行为。在马克思主义中，暴力被视为革命的“助产婆”。
+* **Key Word (s):** 暴力, 武力, 强制, 革命 (Violence, Force, Coercion, Revolution)
+* **Parameter (s):** [Role in History], [Relationship to State], [Ethical Considerations] // [在历史中的作用], [与国家的关系], [伦理考量]
+
+#### **[ID: 123] 革命 // Revolution**
+* **Encoding:** `REV-POL-123`
+* **Overview:** 社会形态的根本性变革，通常涉及推翻旧的统治阶级，建立新的社会制度。
+* **Key Word (s)::** 革命, 社会形态, 变革, 阶级 (Revolution, Social Formation, Transformation, Class)
+* **Parameter (s):** [Causes], [Stages], [Outcomes] // [原因], [阶段], [结果]
+
+#### **[ID: 124] 剥削 // Exploitation**
+* **Encoding:** `EXP-POL-124`
+* **Overview:** 在政治语境下，指统治阶级利用政治权力维护其经济剥削地位的行为。
+* **Key Word (s)::** 剥削, 政治权力, 统治阶级, 经济 (Exploitation, Political Power, Ruling Class, Economy)
+* **Parameter (s):** [Mechanism], [Forms], [Resistance] // [机制], [形式], [抵抗]
+
+#### **[ID: 125] 统治阶级 // Ruling Class**
+* **Encoding:** `RUL-CLA-125`
+* **Overview:** 在阶级社会中，凭借对生产资料的占有而掌握国家政权，并在经济、政治、思想上占据统治地位的阶级。
+* **Key Word (s):** 统治阶级, 生产资料, 国家政权, 统治 (Ruling Class, Means of Production, State Power, Rule)
+* **Parameter (s):** [Definition], [Sources of Power], [Internal Divisions] // [定义], [权力来源], [内部划分]
+
+### 3.3. [SUB-INDEX: 03-03] Social Phenomena and Movements // 社会现象与运动
+
+#### **[ID: 126] 人口 // Population**
+* **Encoding:** `POP-SOC-126`
+* **Overview:** 特定区域内居住的人的总和，其数量、结构和分布对社会经济发展有重要影响。 (重复条目，内容同 ID: 096)
+* **Key Word (s)::** 人口, 社会, 经济, 结构 (Population, Society, Economy, Structure)
+* **Parameter (s):** [Size], [Growth Rate], [Composition], [Distribution] // [规模], [增长率], [构成], [分布]
+
+#### **[ID: 127] 人类学 // Anthropology**
+* **Encoding:** `ANT-SOC-127`
+* **Overview:** 研究人类及其社会、文化和生物多样性的学科。
+* **Key Word (s):** 人类学, 人类, 社会, 文化 (Anthropology, Humanity, Society, Culture)
+* **Parameter (s):** [Subfields], [Methodologies], [Relationship to Marxism] // [分支领域], [方法论], [与马克思主义的关系]
+
+#### **[ID: 128] 工会 // Trade Unions**
+* **Encoding:** `TRA-UNI-128`
+* **Overview:** 工人为了维护自身权益而组织起来的群众组织。
+* **Key Word (s)::** 工会, 工人, 权益, 组织 (Trade Unions, Workers, Rights, Organization)
+* **Parameter (s):** [Functions], [Structure], [Political Role] // [功能], [结构], [政治作用]
+
+#### **[ID: 129] 工业化 // Industrialization**
+* **Encoding:** `IND-SOC-129`
+* **Overview:** 社会经济从农业为主向工业为主转变的过程，伴随技术进步、城市化和新的社会关系。
+* **Key Word (s):** 工业化, 农业, 工业, 技术 (Industrialization, Agriculture, Industry, Technology)
+* **Parameter (s):** [Process], [Impact on Society], [Historical Stages] // [过程], [对社会的影响], [历史阶段]
+
+#### **[ID: 130] 工人阶级运动 // Working Class Movement**
+* **Encoding:** `WOR-MOV-130`
+* **Overview:** 工人阶级为了改善自身经济地位和政治权利而进行的各种形式的斗争和组织活动。
+* **Key Word (s):** 工人阶级运动, 工人阶级, 斗争, 组织 (Working Class Movement, Working Class, Struggle, Organization)
+* **Parameter (s):** [Forms], [Goals], [Historical Development] // [形式], [目标], [历史发展]
+
+#### **[ID: 131] 工团主义 // Syndicalism**
+* **Encoding:** `SYN-POL-131`
+* **Overview:** 一种工人运动思想，主张通过工会组织和总罢工推翻资本主义，建立以工会为基础的社会。
+* **Key Word (s):** 工团主义, 工会, 总罢工, 资本主义 (Syndicalism, Trade Unions, General Strike, Capitalism)
+* **Parameter (s):** [Core Principles], [Tactics], [Relationship to Anarchism] // [核心原则], [策略], [与无政府主义的关系]
+
+#### **[ID: 132] 女权运动 // Feminist Movement**
+* **Encoding:** `FEM-MOV-132`
+* **Overview:** 旨在争取女性平等权利和机会的社会运动。
+* **Key Word (s):** 女权运动, 女性, 平等, 权利 (Feminist Movement, Women, Equality, Rights)
+* **Parameter (s):** [Goals], [Historical Waves], [Relationship to Marxism] // [目标], [历史浪潮], [与马克思主义的关系]
+
+#### **[ID: 133] 犯罪 // Crime**
+* **Encoding:** `CRI-SOC-133`
+* **Overview:** 违反法律和社会规范的行为。在马克思主义看来，犯罪与社会经济结构和不平等有关。
+* **Key Word (s)::** 犯罪, 法律, 社会规范, 不平等 (Crime, Law, Social Norms, Inequality)
+* **Parameter (s):** [Social Causes], [Relationship to Class], [State Response] // [社会原因], [与阶级的关系], [国家应对]
+
+#### **[ID: 134] 民族 // Nation**
+* **Encoding:** `NAT-SOC-134`
+* **Overview:** 基于共同的语言、文化、历史、地域和经济生活而形成的稳定的人们共同体。
+* **Key Word (s)::** 民族, 共同体, 文化, 历史 (Nation, Community, Culture, History)
+* **Parameter (s):** [Defining Elements], [Formation], [Role in Politics] // [定义要素], [形成], [在政治中的作用]
+
+#### **[ID: 135] 民族主义 // Nationalism**
+* **Encoding:** `NAT-POL-135`
+* **Overview:** 一种政治意识形态，强调民族的利益和团结，主张民族独立和国家主权。
+* **Key Word (s):** 民族主义, 民族, 利益, 团结 (Nationalism, Nation, Interests, Solidarity)
+* **Parameter (s):** [Core Principles], [Historical Manifestations], [Relationship to Class] // [核心原则], [历史表现], [与阶级的关系]
+
+#### **[ID: 136] 民粹主义 // Populism**
+* **Encoding:** `POP-POL-136`
+* **Overview:** 一种政治策略或思潮，通常诉诸“人民”对抗“精英”，强调普通民众的利益和价值观。
+* **Key Word (s):** 民粹主义, 人民, 精英, 政治策略 (Populism, People, Elite, Political Strategy)
+* **Parameter (s):** [Characteristics], [Causes], [Political Impact] // [特征], [原因], [政治影响]
+
+#### **[ID: 137] 民主 // Democracy**
+* **Encoding:** `DEM-POL-137`
+* **Overview:** 一种政治制度，公民通过直接或间接方式参与决策。在马克思主义看来，资产阶级民主掩盖了阶级统治的实质。
+* **Key Word (s)::** 民主, 政治制度, 公民, 决策 (Democracy, Political System, Citizens, Decision-Making)
+* **Parameter (s):** [Forms], [Relationship to Class], [Historical Evolution] // [形式], [与阶级的关系], [历史演变]
+
+#### **[ID: 138] 生态 // Ecology**
+* **Encoding:** `ECO-SCI-138`
+* **Overview:** 研究生物与其环境之间相互关系的科学。马克思主义对资本主义破坏生态环境有批判。
+* **Key Word (s)::** 生态, 环境, 生物, 相互关系 (Ecology, Environment, Organisms, Interrelationships)
+* **Parameter (s):** [Scope], [Environmental Issues], [Relationship to Capitalism] // [范围], [环境问题], [与资本主义的关系]
+
+#### **[ID: 139] 市民社会 // Civil Society**
+* **Encoding:** `CIV-SOC-139`
+* **Overview:** 介于家庭和国家之间的社会领域，包括各种非政府组织、社团、媒体等。
+* **Key Word (s):** 市民社会, 家庭, 国家, 组织 (Civil Society, Family, State, Organizations)
+* **Parameter (s):** [Definition], [Components], [Role in Politics] // [定义], [组成部分], [在政治中的作用]
+
+#### **[ID: 140] 合作社 // Cooperatives**
+* **Encoding:** `COO-SOC-140`
+* **Overview:** 劳动者或其他群体为了共同经济利益而自愿组成的互助性经济组织。 (重复条目，内容同 ID: 087)
+* **Key Word (s)::** 合作社, 互助, 经济组织, 合作 (Cooperatives, Mutual Aid, Economic Organization, Cooperation)
+* **Parameter (s):** [Principles], [Types], [Role in Different Systems] // [原则], [类型], [在不同制度中的作用]
+
+#### **[ID: 141] 青年黑格尔派 // Young Hegelians**
+* **Encoding:** `YOU-HEG-141`
+* **Overview:** 19 世纪德国的一群哲学家，他们接受黑格尔哲学并从中发展出激进的批判思想，对马克思早期思想产生影响。
+* **Key Word (s):** 青年黑格尔派, 黑格尔, 哲学, 批判 (Young Hegelians, Hegel, Philosophy, Critique)
+* **Parameter (s):** [Key Figures], [Ideas], [Relationship to Marxism] // [关键人物], [思想], [与马克思主义的关系]
+
+#### **[ID: 142] 知识分子 // Intellectuals**
+* **Encoding:** `INT-SOC-142`
+* **Overview:** 从事脑力劳动，具有较高文化水平和专业知识的社会群体。
+* **Key Word (s):** 知识分子, 脑力劳动, 文化, 知识 (Intellectuals, Mental Labor, Culture, Knowledge)
+* **Parameter (s):** [Social Role], [Relationship to Class], [Political Positions] // [社会作用], [与阶级的关系], [政治立场]
+
+#### **[ID: 143] 宗教 // Religion**
+* **Encoding:** `REL-SOC-143`
+* **Overview:** 人类社会的一种文化现象，通常包括信仰体系、仪式和组织。马克思称之为“人民的鸦片”。
+* **Key Word (s)::** 宗教, 信仰, 文化, 社会现象 (Religion, Beliefs, Culture, Social Phenomenon)
+* **Parameter (s):** [Social Function], [Relationship to State], [Critique] // [社会功能], [与国家的关系], [批判]
+
+#### **[ID: 144] 城市化 // Urbanization**
+* **Encoding:** `URB-SOC-144`
+* **Overview:** 人口从农村向城市集中的过程，伴随城市规模扩大和城市生活方式普及。
+* **Key Word (s):** 城市化, 农村, 城市, 人口 (Urbanization, Rural Areas, Cities, Population)
+* **Parameter (s):** [Process], [Causes], [Social and Economic Impact] // [过程], [原因], [社会和经济影响]
+
+#### **[ID: 145] 美学 // Aesthetics**
+* **Encoding:** `AES-PHI-145`
+* **Overview:** 研究美、艺术及其与社会生活关系的哲学分支。
+* **Key Word (s)::** 美学, 美, 艺术, 哲学 (Aesthetics, Beauty, Art, Philosophy)
+* **Parameter (s):** [Scope], [Relationship to Society], [Marxist Views] // [范围], [与社会的关系], [马克思主义观点]
+
+#### **[ID: 146] 亲属关系 // Kinship**
+* **Encoding:** `KIN-SOC-146`
+* **Overview:** 基于血缘、婚姻或收养而形成的人与人之间的社会关系。
+* **Key Word (s):** 亲属关系, 血缘, 婚姻, 社会关系 (Kinship, Blood Relations, Marriage, Social Relations)
+* **Parameter (s):** [Forms], [Social Functions], [Historical Evolution] // [形式], [社会功能], [历史演变]
+
+#### **[ID: 147] 总体性 // Totality**
+* **Encoding:** `TOT-PHI-147`
+* **Overview:** 辩证法的一个重要概念，指事物之间相互联系、相互制约，构成一个有机整体。
+* **Key Word (s):** 总体性, 辩证法, 联系, 整体 (Totality, Dialectics, Connection, Whole)
+* **Parameter (s):** [Concept], [Relationship to Parts], [Methodological Significance] // [概念], [与部分的关系], [方法论意义]
+
+#### **[ID: 148] 种族 // Race**
+* **Encoding:** `RAC-SOC-148`
+* **Overview:** 基于生理特征或社会建构而划分的人群类别。在马克思主义看来，种族问题与阶级问题相互交织。
+* **Key Word (s)::** 种族, 生理特征, 社会建构, 阶级 (Race, Physical Characteristics, Social Construction, Class)
+* **Parameter (s):** [Social Construction], [Relationship to Class], [Historical Impact] // [社会建构], [与阶级的关系], [历史影响]
+
+#### **[ID: 149] 种姓 // Caste**
+* **Encoding:** `CAS-SOC-149`
+* **Overview:** 一种基于世袭身份、封闭性强的社会分层体系，常见于印度等社会。
+* **Key Word (s)::** 种姓, 世袭, 社会分层, 印度 (Caste, Hereditary Status, Social Stratification, India)
+* **Parameter (s):** [Characteristics], [Social Structure], [Historical Context] // [特征], [社会结构], [历史背景]
+
+#### **[ID: 150] 家庭 // Family**
+* **Encoding:** `FAM-SOC-150`
+* **Overview:** 基于婚姻、血缘或收养关系而形成的社会基本单位，其形式和功能随社会发展而变化。
+* **Key Word (s)::** 家庭, 婚姻, 血缘, 社会单位 (Family, Marriage, Blood Relations, Social Unit)
+* **Parameter (s):** [Forms], [Functions], [Historical Evolution] // [形式], [功能], [历史演变]
+
+#### **[ID: 151] 家务劳动 // Domestic Labor**
+* **Encoding:** `DOM-LAB-151`
+* **Overview:** 在家庭内部进行的、不直接获得货币报酬的劳动，如家务、育儿等。
+* **Key Word (s):** 家务劳动, 家庭, 劳动, 报酬 (Domestic Labor, Family, Labor, Remuneration)
+* **Parameter (s):** [Nature], [Economic Value], [Social Significance] // [性质], [经济价值], [社会意义]
+
+#### **[ID: 152] 教育 // Education**
+* **Encoding:** `EDU-SOC-152`
+* **Overview:** 社会通过学校等机构向个体传授知识、技能和价值观的过程。
+* **Key Word (s)::** 教育, 知识, 技能, 价值观 (Education, Knowledge, Skills, Values)
+* **Parameter (s):** [Social Function], [Relationship to Class], [Forms] // [社会功能], [与阶级的关系], [形式]
+
+#### **[ID: 153] 精神分析学 // Psychoanalysis**
+* **Encoding:** `PSY-SCI-153`
+* **Overview:** 由弗洛伊德创立的一种心理学理论和治疗方法，强调无意识对人类行为的影响。
+* **Key Word (s):** 精神分析学, 心理学, 无意识, 弗洛伊德 (Psychoanalysis, Psychology, Unconscious, Freud)
+* **Parameter (s):** [Core Concepts], [Methodology], [Relationship to Marxism] // [核心概念], [方法论], [与马克思主义的关系]
+
+#### **[ID: 154] 需要 // Needs**
+* **Encoding:** `NEE-SOC-154`
+* **Overview:** 人类维持生存和发展所必需的物质和精神条件。
+* **Key Word (s)::** 需要, 生存, 发展, 物质, 精神 (Needs, Survival, Development, Material, Spiritual)
+* **Parameter (s):** [Types], [Social Determination], [Satisfaction] // [类型], [社会决定性], [满足]
+
+#### **[ID: 155] 道德 // Morality**
+* **Encoding:** `MOR-SOC-155`
+* **Overview:** 关于行为对错的社会规范和价值观体系。
+* **Key Word (s)::** 道德, 行为, 规范, 价值观 (Morality, Behavior, Norms, Values)
+* **Parameter (s):** [Social Basis], [Historical Evolution], [Relationship to Class] // [社会基础], [历史演变], [与阶级的关系]
+
+## [INDEX: 04] Historical Concepts and Periods // 历史概念与时期
+
+### 4.1. [SUB-INDEX: 04-01] Historical Materialism and Stages // 历史唯物主义与发展阶段
+
+#### **[ID: 156] 历史唯物主义 // Historical Materialism**
+* **Encoding:** `HIS-MAT-156`
+* **Overview:** 马克思主义关于人类社会发展规律的理论，认为社会存在决定社会意识，经济基础决定上层建筑。
+* **Key Word (s):** 历史唯物主义, 社会发展, 经济基础, 上层建筑 (Historical Materialism, Social Development, Economic Base, Superstructure)
+* **Parameter (s):** [Core Principles], [Driving Forces], [Application to History] // [核心原则], [驱动力], [对历史的应用]
+
+#### **[ID: 157] 历史主义 // Historicism**
+* **Encoding:** `HIS-PHI-157`
+* **Overview:** 一种哲学观点，认为历史是理解社会和人类现象的关键，强调历史的独特性和发展过程。
+* **Key Word (s):** 历史主义, 历史, 发展, 独特性 (Historicism, History, Development, Uniqueness)
+* **Parameter (s):** [Core Tenets], [Relationship to Marxism], [Critiques] // [核心教义], [与马克思主义的关系], [批判]
+
+#### **[ID: 158] 历史编纂学 // Historiography**
+* **Encoding:** `HIS-GEN-158`
+* **Overview:** 研究历史著作的写作、历史方法的运用以及历史解释的学科。
+* **Key Word (s):** 历史编纂学, 历史著作, 方法, 解释 (Historiography, Historical Writing, Methods, Interpretation)
+* **Parameter (s):** [Methodologies], [Schools of Thought], [Relationship to Ideology] // [方法论], [学派], [与意识形态的关系]
+
+#### **[ID: 159] 东方专制制度 // Oriental Despotism**
+* **Encoding:** `ORI-DES-159`
+* **Overview:** 马克思早期提出的概念，用于描述亚细亚生产方式下，国家权力高度集中、缺乏土地私有制、农村公社普遍存在的社会形态。
+* **Key Word (s):** 东方专制制度, 亚细亚生产方式, 国家权力, 农村公社 (Oriental Despotism, Asiatic Mode of Production, State Power, Rural Commune)
+* **Parameter (s):** [Characteristics], [Geographical Scope], [Theoretical Debate] // [特征], [地理范围], [理论争议]
+
+#### **[ID: 160] 发展阶段 // Stages of Development**
+* **Encoding:** `DEV-STA-160`
+* **Overview:** 历史唯物主义将人类社会发展划分为不同的阶段，如原始社会、奴隶社会、封建社会、资本主义社会和共产主义社会。
+* **Key Word (s):** 发展阶段, 历史唯物主义, 社会形态, 过渡 (Stages of Development, Historical Materialism, Social Formation, Transition)
+* **Parameter (s):** [Criteria for Stages], [Sequence], [Transition Dynamics] // [阶段划分标准], [顺序], [转变动力学]
+
+#### **[ID: 161] 古代社会 // Ancient Society**
+* **Encoding:** `ANC-SOC-161`
+* **Overview:** 指以奴隶制为主要生产关系的历史时期社会形态。
+* **Key Word (s):** 古代社会, 奴隶制, 社会形态, 历史 (Ancient Society, Slavery, Social Formation, History)
+* **Parameter (s):** [Mode of Production], [Social Structure], [Key Features] // [生产方式], [社会结构], [关键特征]
+
+#### **[ID: 162] 奴隶制 // Slavery**
+* **Encoding:** `SLA-HIS-162`
+* **Overview:** 一种剥削制度，劳动者（奴隶）被视为奴隶主的财产，完全失去人身自由。
+* **Key Word (s)::** 奴隶制, 剥削, 财产, 劳动者 (Slavery, Exploitation, Property, Laborer)
+* **Parameter (s):** [Characteristics], [Historical Context], [Economic Role] // [特征], [历史背景], [经济作用]
+
+#### **[ID: 163] 考古学和史前史 // Archaeology and Prehistory**
+* **Encoding:** `ARC-PRE-163`
+* **Overview:** 考古学研究古代人类的遗物遗迹，史前史研究有文字记载以前的人类历史，为理解早期社会形态提供证据。
+* **Key Word (s):** 考古学, 史前史, 古代人类, 社会形态 (Archaeology, Prehistory, Ancient Humans, Social Formation)
+* **Parameter (s):** [Methodologies], [Evidence Types], [Contribution to Historical Materialism] // [方法论], [证据类型], [对历史唯物主义的贡献]
+
+#### **[ID: 164] 农奴制 // Serfdom**
+* **Encoding:** `SER-HIS-164`
+* **Overview:** 封建社会的一种剥削形式，农奴被束缚在土地上，为领主提供劳役和贡品。
+* **Key Word (s)::** 农奴制, 封建社会, 剥削, 土地 (Serfdom, Feudal Society, Exploitation, Land)
+* **Parameter (s):** [Characteristics], [Historical Context], [Relationship to Feudalism] // [特征], [历史背景], [与封建主义的关系]
+
+#### **[ID: 165] 亚细亚社会 // Asiatic Society**
+* **Encoding:** `ASI-SOC-165`
+* **Overview:** 指以亚细亚生产方式为基础的社会形态，其特点是土地公有、村社组织、国家权力强大等。
+* **Key Word (s):** 亚细亚社会, 亚细亚生产方式, 土地公有, 村社 (Asiatic Society, Asiatic Mode of Production, Land Commune, Village Community)
+* **Parameter (s):** [Characteristics], [Geographical Scope], [Theoretical Debate] // [特征], [地理范围], [理论争议]
+
+#### **[ID: 166] 封建社会 // Feudal Society**
+* **Encoding:** `FEU-SOC-166`
+* **Overview:** 以封建土地所有制和农奴制为主要生产关系的社会形态。
+* **Key Word (s):** 封建社会, 封建土地所有制, 农奴制, 社会形态 (Feudal Society, Feudal Land Ownership, Serfdom, Social Formation)
+* **Parameter (s):** [Mode of Production], [Social Structure], [Key Features] // [生产方式], [社会结构], [关键特征]
+
+#### **[ID: 167] 封建主义向资本主义的过渡 // Transition from Feudalism to Capitalism**
+* **Encoding:** `FEU-CAP-167`
+* **Overview:** 封建社会逐渐解体，资本主义生产关系和制度逐渐确立的历史过程。
+* **Key Word (s):** 封建主义, 资本主义, 过渡, 历史过程 (Feudalism, Capitalism, Transition, Historical Process)
+* **Parameter (s):** [Driving Forces], [Key Events], [Regional Variations] // [驱动力], [关键事件], [区域差异]
+
+#### **[ID: 168] 俄国公社 // Russian Commune**
+* **Encoding:** `RUS-COM-168`
+* **Overview:** 俄国农村传统的土地公有和集体耕作组织，马克思曾对其在向社会主义过渡中的作用进行探讨。
+* **Key Word (s):** 俄国公社, 农村, 土地公有, 集体耕作 (Russian Commune, Rural, Land Commune, Collective Cultivation)
+* **Parameter (s):** [Structure], [Historical Role], [Theoretical Significance] // [结构], [历史作用], [理论意义]
+
+#### **[ID: 169] 原始共产主义 // Primitive Communism**
+* **Encoding:** `PRI-COM-169`
+* **Overview:** 历史唯物主义认为的人类社会发展最早阶段，生产力水平低下，生产资料公有，没有阶级和剥削。
+* **Key Word (s):** 原始共产主义, 生产力, 公有制, 阶级 (Primitive Communism, Productive Forces, Common Ownership, Class)
+* **Parameter (s):** [Characteristics], [Historical Evidence], [Theoretical Concept] // [特征], [历史证据], [理论概念]
+
+#### **[ID: 170] 原始积累 // Primitive Accumulation**
+* **Encoding:** `PRI-ACC-170`
+* **Overview:** 资本主义生产方式建立前，通过暴力和掠夺等手段使生产者与生产资料相分离，形成资本和雇佣劳动力的历史过程。
+* **Key Word (s):** 原始积累, 资本主义, 暴力, 剥夺 (Primitive Accumulation, Capitalism, Violence, Expropriation)
+* **Parameter (s):** [Methods], [Historical Examples], [Role in Capitalism] // [方法], [历史示例], [在资本主义中的作用]
+
+#### **[ID: 171] 资本主义的历史分期 // Periodization of Capitalism**
+* **Encoding:** `PER-CAP-171`
+* **Overview:** 将资本主义历史划分为不同阶段，如自由竞争资本主义、垄断资本主义等，以便于分析其发展和变化。
+* **Key Word (s):** 资本主义的历史分期, 资本主义, 历史, 阶段 (Periodization of Capitalism, Capitalism, History, Stages)
+* **Parameter (s):** [Criteria], [Proposed Periods], [Debates] // [标准], [划分阶段], [争议]
+
+#### **[ID: 172] 资本主义社会的危机 // Crises of Capitalist Society**
+* **Encoding:** `CRI-CAP-172`
+* **Overview:** 资本主义制度下周期性爆发的经济、政治和社会危机，反映了资本主义的基本矛盾。
+* **Key Word (s):** 资本主义社会的危机, 资本主义, 经济危机, 矛盾 (Crises of Capitalist Society, Capitalism, Economic Crisis, Contradictions)
+* **Parameter (s):** [Types of Crises], [Causes], [Impact] // [危机类型], [原因], [影响]
+
+#### **[ID: 173] 基础和上层建筑 // Base and Superstructure**
+* **Encoding:** `BAS-SUP-173`
+* **Overview:** 历史唯物主义的核心概念，经济基础决定上层建筑，上层建筑反作用于经济基础。
+* **Key Word (s):** 基础, 上层建筑, 经济基础, 相互作用 (Base, Superstructure, Economic Base, Interaction)
+* **Parameter (s):** [Definition of Each], [Relationship Dynamics], [Theoretical Significance] // [各自定义], [关系动力学], [理论意义]
+
+#### **[ID: 174] 偶然性和必然性 // Contingency and Necessity**
+* **Encoding:** `CON-NEC-174`
+* **Overview:** 辩证法中的一对范畴，必然性指事物发展中合乎规律的确定趋势，偶然性指事物发展中不确定的、非本质的联系。
+* **Key Word (s):** 偶然性, 必然性, 辩证法, 规律 (Contingency, Necessity, Dialectics, Laws)
+* **Parameter (s):** [Definitions], [Relationship], [Role in History] // [定义], [关系], [在历史中的作用]
+
+#### **[ID: 175] 部落社会 // Tribal Society**
+* **Encoding:** `TRI-SOC-175`
+* **Overview:** 以血缘关系为基础，没有明确阶级划分的早期社会形态，通常被视为原始共产主义的后期阶段。
+* **Key Word (s):** 部落社会, 血缘关系, 早期社会, 原始共产主义 (Tribal Society, Kinship, Early Society, Primitive Communism)
+* **Parameter (s):** [Characteristics], [Social Structure], [Economic Organization] // [特征], [社会结构], [经济组织]
+
+#### **[ID: 176] 城邦 // Polis**
+* **Encoding:** `POL-HIS-176`
+* **Overview:** 古希腊的一种政治社会组织形式，以城市为中心，具有独立的政治和经济权力。
+* **Key Word (s)::** 城邦, 古希腊, 政治组织, 城市 (Polis, Ancient Greece, Political Organization, City)
+* **Parameter (s):** [Structure], [Political System], [Historical Significance] // [结构], [政治制度], [历史意义]
+
+#### **[ID: 177] 帝国主义和世界市场 // Imperialism and World Market**
+* **Encoding:** `IMP-WOR-177`
+* **Overview:** 帝国主义是垄断资本主义的最高阶段，其特点是资本输出、瓜分世界、形成世界市场。
+* **Key Word (s):** 帝国主义, 世界市场, 垄断资本主义, 资本输出 (Imperialism, World Market, Monopoly Capitalism, Capital Export)
+* **Parameter (s):** [Defining Features of Imperialism], [Formation of World Market], [Global Impact] // [帝国主义的定义特征], [世界市场的形成], [全球影响]
+
+#### **[ID: 178] 殖民主义 // Colonialism**
+* **Encoding:** `COL-HIS-178`
+* **Overview:** 宗主国对殖民地进行政治控制、经济剥削和文化渗透的活动。
+* **Key Word (s)::** 殖民主义, 宗主国, 殖民地, 剥削 (Colonialism, Colonial Power, Colony, Exploitation)
+* **Parameter (s):** [Historical Period], [Methods], [Consequences] // [历史时期], [方法], [后果]
+
+#### **[ID: 179] 殖民社会和后殖民社会 // Colonial and Postcolonial Society**
+* **Encoding:** `COL-POS-179`
+* **Overview:** 殖民社会指处于宗主国统治下的社会，后殖民社会指摆脱殖民统治后，仍然受到殖民历史遗留影响的社会。
+* **Key Word (s):** 殖民社会, 后殖民社会, 殖民统治, 历史遗留 (Colonial Society, Postcolonial Society, Colonial Rule, Historical Legacy)
+* **Parameter (s):** [Characteristics of Each], [Transition], [Challenges] // [各自特征], [转变], [挑战]
+
+## [INDEX: 05] Thinkers and Schools of Thought // 思想家与学派
+
+### 5.1. [SUB-INDEX: 05-01] Key Figures // 关键人物
+
+#### **[ID: 180] 马克思，·卡尔·亨利希 // Marx, Karl Heinrich**
+* **Encoding:** `MAR-FIG-180`
+* **Overview:** 德国哲学家、经济学家、社会学家、历史学家、革命理论家，马克思主义的创始人。
+* **Key Word (s):** 马克思, 马克思主义, 哲学家, 经济学家 (Marx, Marxism, Philosopher, Economist)
+* **Parameter (s):** [Major Works], [Key Contributions], [Historical Significance] // [主要著作], [主要贡献], [历史意义]
+
+#### **[ID: 181] 马尔库塞，赫伯特 // Marcuse, Herbert**
+* **Encoding:** `MAR-FIG-181`
+* **Overview:** 德裔美籍哲学家、社会理论家，法兰克福学派重要代表人物之一，批判发达工业社会。
+* **Key Word (s):** 马尔库塞, 法兰克福学派, 批判理论, 发达工业社会 (Marcuse, Frankfurt School, Critical Theory, Advanced Industrial Society)
+* **Parameter (s):** [Key Ideas], [Major Works], [Influence] // [主要思想], [主要著作], [影响]
+
+#### **[ID: 182] 马尔托夫，尤·奥·﹝策杰尔包姆﹞ // Martov, Yu. O. [Tsederbaum]**
+* **Encoding:** `MAR-FIG-182`
+* **Overview:** 俄国革命家，俄国社会民主工党孟什维克派的领导人之一。
+* **Key Word (s):** 马尔托夫, 孟什维克, 俄国革命, 政治家 (Martov, Mensheviks, Russian Revolution, Politician)
+* **Parameter (s):** [Political Role], [Theoretical Positions], [Relationship to Lenin] // [政治作用], [理论立场], [与列宁的关系]
+
+#### **[ID: 183] 巴枯宁，米哈伊尔 // Bakunin, Mikhail**
+* **Encoding:** `BAK-FIG-183`
+* **Overview:** 俄国革命家，著名的无政府主义理论家，与马克思在第一国际中存在路线分歧。
+* **Key Word (s):** 巴枯宁, 无政府主义, 革命家, 第一国际 (Bakunin, Anarchism, Revolutionary, First International)
+* **Parameter (s):** [Key Ideas], [Relationship to Marxism], [Political Activities] // [主要思想], [与马克思主义的关系], [政治活动]
+
+#### **[ID: 184] 贝纳尔，约翰·德斯蒙德 // Bernal, John Desmond**
+* **Encoding:** `BER-FIG-184`
+* **Overview:** 英国物理学家和社会活动家，对科学史和科学的社会功能有重要研究，具有马克思主义倾向。
+* **Key Word (s):** 贝纳尔, 物理学家, 科学史, 马克思主义 (Bernal, Physicist, History of Science, Marxism)
+* **Parameter (s):** [Academic Contributions], [Political Views], [Influence] // [学术贡献], [政治观点], [影响]
+
+#### **[ID: 185] 戈尔德曼，卢西安 // Goldmann, Lucien**
+* **Encoding:** `GOL-FIG-185`
+* **Overview:** 罗马尼亚裔法国哲学家和社会学家，受卢卡奇影响，发展了发生结构主义理论。
+* **Key Word (s):** 戈尔德曼, 哲学家, 社会学家, 发生结构主义 (Goldmann, Philosopher, Sociologist, Genetic Structuralism)
+* **Parameter (s):** [Key Ideas], [Relationship to Lukács], [Major Works] // [主要思想], [与卢卡奇的关系], [主要著作]
+
+#### **[ID: 186] 毛泽东 // Mao Zedong**
+* **Encoding:** `MAO-FIG-186`
+* **Overview:** 中国共产党的主要创始人之一和领导人，将马克思列宁主义与中国具体实践相结合，形成了毛泽东思想。
+* **Key Word (s):** 毛泽东, 中国共产党, 马克思列宁主义, 毛泽东思想 (Mao Zedong, Chinese Communist Party, Marxism-Leninism, Mao Zedong Thought)
+* **Parameter (s):** [Historical Role], [Theoretical Contributions], [Political Practices] // [历史作用], [理论贡献], [政治实践]
+
+#### **[ID: 187] 列宁，弗·伊 // Lenin, V. I.**
+* **Encoding:** `LEN-FIG-187`
+* **Overview:** 俄国革命家、政治家、理论家，布尔什维克党的领导人，十月革命的主要组织者，列宁主义的创始人。
+* **Key Word (s)::** 列宁, 布尔什维克, 十月革命, 列宁主义 (Lenin, Bolsheviks, October Revolution, Leninism)
+* **Parameter (s):** [Historical Role], [Theoretical Contributions], [Political Strategy] // [历史作用], [理论贡献], [政治策略]
+
+#### **[ID: 188] 多伊切，艾萨克 // Deutscher, Isaac**
+* **Encoding:** `DEU-FIG-188`
+* **Overview:** 波兰裔英国历史学家、政治活动家，以其对托洛茨基和苏联历史的研究而闻名。
+* **Key Word (s):** 多伊切, 历史学家, 托洛茨基, 苏联历史 (Deutscher, Historian, Trotsky, Soviet History)
+* **Parameter (s):** [Major Works], [Historical Analysis], [Political Views] // [主要著作], [历史分析], [政治观点]
+
+#### **[ID: 189] 多布，莫里斯 // Dobb, Maurice**
+* **Encoding:** `DOB-FIG-189`
+* **Overview:** 英国马克思主义经济学家，以其在经济史和计划经济理论方面的研究而著称。
+* **Key Word (s):** 多布, 经济学家, 经济史, 计划经济 (Dobb, Economist, Economic History, Planned Economy)
+* **Parameter (s):** [Academic Contributions], [Theoretical Positions], [Influence] // [学术贡献], [理论立场], [影响]
+
+#### **[ID: 190] 考茨基，卡尔 // Kautsky, Karl**
+* **Encoding:** `KAU-FIG-190`
+* **Overview:** 德国社会民主党理论家，第二国际的重要领导人，曾被视为马克思主义正统的代表，后与列宁等发生争论。
+* **Key Word (s):** 考茨基, 社会民主党, 第二国际, 正统马克思主义 (Kautsky, Social Democratic Party, Second International, Orthodox Marxism)
+* **Parameter (s):** [Theoretical Positions], [Political Role], [Controversies] // [理论立场], [政治作用], [争议]
+
+#### **[ID: 191] 伦纳，卡尔 // Renner, Karl**
+* **Encoding:** `REN-FIG-191`
+* **Overview:** 奥地利社会民主党政治家和理论家，奥地利马克思主义的重要代表人物之一。
+* **Key Word (s)::** 伦纳, 奥地利社会民主党, 奥地利马克思主义, 政治家 (Renner, Austrian Social Democratic Party, Austrian Marxism, Politician)
+* **Parameter (s):** [Political Role], [Theoretical Contributions], [Concept of Personal Autonomy] // [政治作用], [理论贡献], [个人自治概念]
+
+#### **[ID: 192] 托洛茨基，列甫 // Trotsky, Leon**
+* **Encoding:** `TRO-FIG-192`
+* **Overview:** 俄国革命家、政治家、理论家，十月革命的领导人之一，苏联红军的创建者，托洛茨基主义的创始人。
+* **Key Word (s):** 托洛茨基, 十月革命, 红军, 托洛茨基主义 (Trotsky, October Revolution, Red Army, Trotskyism)
+* **Parameter (s):** [Historical Role], [Theoretical Contributions], [Political Struggle] // [历史作用], [理论贡献], [政治斗争]
+
+#### **[ID: 193] 阿德勒，麦克斯 // Adler, Max**
+* **Encoding:** `ADL-FIG-193`
+* **Overview:** 奥地利社会民主党理论家，奥地利马克思主义的重要代表人物之一，试图将马克思主义与康德哲学相结合。
+* **Key Word (s)::** 阿德勒, 奥地利社会民主党, 奥地利马克思主义, 康德哲学 (Adler, Austrian Social Democratic Party, Austrian Marxism, Kantian Philosophy)
+* **Parameter (s):** [Theoretical Positions], [Relationship to Kant], [Influence] // [理论立场], [与康德的关系], [影响]
+
+#### **[ID: 194] 阿多尔诺，西奥多 // Adorno, Theodor**
+* **Encoding:** `ADO-FIG-194`
+* **Overview:** 德国哲学家、社会学家、音乐理论家，法兰克福学派核心人物之一，批判现代资本主义文化。
+* **Key Word (s):** 阿多尔诺, 法兰克福学派, 批判理论, 文化批判 (Adorno, Frankfurt School, Critical Theory, Cultural Critique)
+* **Parameter (s):** [Key Ideas], [Major Works], [Relationship to Horkheimer] // [主要思想], [主要著作], [与霍克海默的关系]
+
+#### **[ID: 195] 阿尔都塞，路易 // Althusser, Louis**
+* **Encoding:** `ALT-FIG-195`
+* **Overview:** 法国哲学家，结构主义马克思主义的代表人物，强调意识形态国家机器的作用。
+* **Key Word (s):** 阿尔都塞, 结构主义马克思主义, 意识形态, 哲学家 (Althusser, Structuralist Marxism, Ideology, Philosopher)
+* **Parameter (s):** [Key Concepts], [Theoretical Contributions], [Influence] // [核心概念], [理论贡献], [影响]
+
+#### **[ID: 196] 伯恩施坦，爱德华 // Bernstein, Eduard**
+* **Encoding:** `BER-FIG-196`
+* **Overview:** 德国社会民主党理论家，修正主义的创始人，对马克思的一些理论提出质疑，主张通过改良实现社会主义。
+* **Key Word (s):** 伯恩施坦, 修正主义, 社会民主党, 改良 (Bernstein, Revisionism, Social Democratic Party, Reform)
+* **Parameter (s):** [Theoretical Positions], [Critique of Marx], [Political Impact] // [理论立场], [对马克思的批判], [政治影响]
+
+#### **[ID: 197] 李嘉图和马克思 // Ricardo and Marx**
+* **Encoding:** `RIC-MAR-197`
+* **Overview:** 英国古典经济学家李嘉图的劳动价值论对马克思产生了重要影响，马克思批判继承并发展了李嘉图的理论。
+* **Key Word (s):** 李嘉图, 马克思, 劳动价值论, 经济学 (Ricardo, Marx, Labor Theory of Value, Economics)
+* **Parameter (s):** [Theoretical Connections], [Points of Departure], [Influence] // [理论联系], [分歧点], [影响]
+
+#### **[ID: 198] 李森科主义 // Lysenkoism**
+* **Encoding:** `LYS-SCI-198`
+* **Overview:** 苏联时期由李森科主导的一种生物学理论和实践，否定孟德尔遗传学，强调环境对遗传的直接影响，受到政治干预。
+* **Key Word (s):** 李森科主义, 生物学, 遗传学, 苏联 (Lysenkoism, Biology, Genetics, Soviet Union)
+* **Parameter (s):** [Core Ideas], [Political Context], [Scientific Impact] // [核心思想], [政治背景], [科学影响]
+
+#### **[ID: 199] 孟什维克派 // Mensheviks**
+* **Encoding:** `MEN-POL-199`
+* **Overview:** 俄国社会民主工党中的少数派，主张通过长期合法斗争和发展资本主义为社会主义创造条件，与布尔什维克派相对立。
+* **Key Word (s):** 孟什维克派, 俄国社会民主工党, 合法斗争, 资本主义 (Mensheviks, Russian Social Democratic Labor Party, Legal Struggle, Capitalism)
+* **Parameter (s):** [Political Positions], [Relationship to Bolsheviks], [Historical Role] // [政治立场], [与布尔什维克的关系], [历史作用]
+
+#### **[ID: 200] 批判理论 // Critical Theory**
+* **Encoding:** `CRI-THE-200`
+* **Overview:** 以法兰克福学派为代表的一种社会理论，旨在批判现代社会中的统治和压迫，追求社会解放。
+* **Key Word (s):** 批判理论, 法兰克福学派, 社会批判, 解放 (Critical Theory, Frankfurt School, Social Critique, Emancipation)
+* **Parameter (s):** [Core Concepts], [Key Figures], [Methodology] // [核心概念], [关键人物], [方法论]
+
+#### **[ID: 201] 苏联马克思主义 // Soviet Marxism**
+* **Encoding:** `SOV-MAR-201`
+* **Overview:** 在苏联特定历史条件下形成的马克思主义理论体系，受到政治意识形态的深刻影响。
+* **Key Word (s):** 苏联马克思主义, 苏联, 意识形态, 理论 (Soviet Marxism, Soviet Union, Ideology, Theory)
+* **Parameter (s):** [Historical Context], [Key Features], [Relationship to Orthodox Marxism] // [历史背景], [关键特征], [与正统马克思主义的关系]
+
+#### **[ID: 202] 希法亭，鲁道夫 // Hilferding, Rudolf**
+* **Encoding:** `HIL-FIG-202`
+* **Overview:** 奥地利马克思主义经济学家、政治家，奥地利马克思主义的重要代表人物，著有《金融资本》。
+* **Key Word (s):** 希法亭, 奥地利马克思主义, 经济学家, 金融资本 (Hilferding, Austrian Marxism, Economist, Finance Capital)
+* **Parameter (s):** [Academic Contributions], [Political Role], [Theoretical Positions] // [学术贡献], [政治作用], [理论立场]
+
+#### **[ID: 203] 庸俗经济学 // Vulgar Economics**
+* **Encoding:** `VUL-ECO-203`
+* **Overview:** 那些停留在事物表面现象，未能揭示资本主义经济内在本质和规律的经济学理论。 (重复条目，内容同 ID: 067)
+* **Key Word (s)::** 庸俗经济学, 表面现象, 本质, 资本主义 (Vulgar Economics, Surface Phenomena, Essence, Capitalism)
+* **Parameter (s):** [Characteristics], [Critique], [Historical Examples] // [特征], [批判], [历史示例]
+
+#### **[ID: 204] 凯恩斯和马克思 // Keynes and Marx**
+* **Encoding:** `KEY-MAR-204`
+* **Overview:** 20 世纪重要的资产阶级经济学家凯恩斯与马克思的经济理论存在显著差异，但也存在一些比较研究。
+* **Key Word (s):** 凯恩斯, 马克思, 经济理论, 比较 (Keynes, Marx, Economic Theory, Comparison)
+* **Parameter (s):** [Theoretical Differences], [Points of Comparison], [Historical Context] // [理论差异], [比较点], [历史背景]
+
+#### **[ID: 205] 拉萨尔，斐迪南 // Lassalle, Ferdinand**
+* **Encoding:** `LAS-FIG-205`
+* **Overview:** 德国工人运动早期领导人，对德国社会民主党的建立有重要影响，但在理论和策略上与马克思存在分歧。
+* **Key Word (s):** 拉萨尔, 德国工人运动, 社会民主党, 分歧 (Lassalle, German Workers' Movement, Social Democratic Party, Disagreement)
+* **Parameter (s):** [Political Role], [Theoretical Positions], [Relationship to Marx] // [政治作用], [理论立场], [与马克思的关系]
+
+#### **[ID: 206] 拉法格，保尔 // Lafargue, Paul**
+* **Encoding:** `LAF-FIG-206`
+* **Overview:** 法国社会主义者，马克思的女婿，著有《<a href='https://www.marxists.org/chinese/lafargue/mia-chinese-lafargue-right.htm'>驳斥杜林论</a>》。
+* **Encoding:** `LAF-FIG-206`
+* **Overview:** 法国社会主义者，马克思的女婿，著有《<a href='https://www.marxists.org/chinese/lafargue/mia-chinese-lafargue-right.htm'>驳斥杜林论</a>》。
+* **Key Word (s):** 拉法格, 社会主义者, 马克思女婿, 著作 (Lafargue, Socialist, Marx's Son-in-law, Works)
+* **Parameter (s):** [Political Activities], [Theoretical Contributions], [Relationship to Marx] // [政治活动], [理论贡献], [与马克思的关系]
+
+#### **[ID: 207] 拉布里奥拉，安东尼奥 // Labriola, Antonio**
+* **Encoding:** `LAB-FIG-207`
+* **Overview:** 意大利哲学家，被认为是意大利马克思主义的创始人之一，强调历史唯物主义的哲学意义。
+* **Key Word (s):** 拉布里奥拉, 意大利马克思主义, 哲学家, 历史唯物主义 (Labriola, Italian Marxism, Philosopher, Historical Materialism)
+* **Parameter (s):** [Theoretical Contributions], [Influence], [Major Works] // [理论贡献], [影响], [主要著作]
+
+#### **[ID: 208] 罗易，马纳卡德拉·纳特 // Roy, Manabendra Nath**
+* **Encoding:** `ROY-FIG-208`
+* **Overview:** 印度革命家、理论家，曾是共产国际的领导人，后发展出激进人道主义思想。
+* **Key Word (s):** 罗易, 印度革命家, 共产国际, 激进人道主义 (Roy, Indian Revolutionary, Comintern, Radical Humanism)
+* **Parameter (s):** [Political Career], [Theoretical Evolution], [Relationship to Marxism] // [政治生涯], [理论演变], [与马克思主义的关系]
+
+#### **[ID: 209] 索列尔，若尔日 // Sorel, Georges**
+* **Encoding:** `SOR-FIG-209`
+* **Overview:** 法国哲学家和工团主义理论家，强调神话和暴力在社会变革中的作用。
+* **Key Word (s):** 索列尔, 工团主义, 哲学, 暴力 (Sorel, Syndicalism, Philosophy, Violence)
+* **Parameter (s):** [Key Ideas], [Influence], [Relationship to Marxism] // [主要思想], [影响], [与马克思主义的关系]
+
+#### **[ID: 210] 萨特，让—保罗 // Sartre, Jean-Paul**
+* **Encoding:** `SAR-FIG-210`
+* **Overview:** 法国哲学家、作家、存在主义代表人物，曾试图将存在主义与马克思主义相结合。
+* **Key Word (s):** 萨特, 存在主义, 马克思主义, 哲学家 (Sartre, Existentialism, Marxism, Philosopher)
+* **Parameter (s):** [Philosophical Synthesis], [Major Works], [Political Engagement] // [哲学综合], [主要著作], [政治参与]
+
+#### **[ID: 211] 葛兰西，安东尼奥 // Gramsci, Antonio**
+* **Encoding:** `GRA-FIG-211`
+* **Overview:** 意大利共产党创始人之一和领导人，发展了领导权、阵地战和运动战等重要理论。
+* **Key Word (s):** 葛兰西, 意大利共产党, 领导权, 政治理论 (Gramsci, Italian Communist Party, Hegemony, Political Theory)
+* **Parameter (s):** [Key Concepts], [Historical Context], [Influence] // [核心概念], [历史背景], [影响]
+
+#### **[ID: 212] 黑格尔，乔治·威廉·弗里德里希 // Hegel, Georg Wilhelm Friedrich**
+* **Encoding:** `HEG-FIG-212`
+* **Overview:** 德国古典哲学家，其辩证法思想对马克思产生了深刻影响，马克思批判继承了黑格尔的辩证法。
+* **Key Word (s):** 黑格尔, 德国古典哲学, 辩证法, 唯心主义 (Hegel, German Classical Philosophy, Dialectics, Idealism)
+* **Parameter (s):** [Philosophical System], [Key Concepts], [Influence on Marx] // [哲学体系], [核心概念], [对马克思的影响]
+
+#### **[ID: 213] 黑格尔和马克思 // Hegel and Marx**
+* **Encoding:** `HEG-MAR-213`
+* **Overview:** 马克思批判地继承了黑格尔的辩证法，同时将其建立在唯物主义基础上，形成了辩证唯物主义和历史唯物主义。
+* **Key Word (s):** 黑格尔, 马克思, 辩证法, 唯物主义 (Hegel, Marx, Dialectics, Materialism)
+* **Parameter (s):** [Points of Influence], [Points of Critique], [Theoretical Synthesis] // [影响点], [批判点], [理论综合]
+
+#### **[ID: 214] 普列汉诺夫，格奥尔基·瓦连廷诺维奇 // Plekhanov, Georgi Valentinovich**
+* **Encoding:** `PLE-FIG-214`
+* **Overview:** 俄国马克思主义的奠基人，对马克思主义在俄国的传播和发展做出了重要贡献。
+* **Key Word (s):** 普列汉诺夫, 俄国马克思主义, 奠基人, 传播 (Plekhanov, Russian Marxism, Founder, Dissemination)
+* **Parameter (s):** [Theoretical Contributions], [Historical Role], [Relationship to Lenin] // [理论贡献], [历史作用], [与列宁的关系]
+
+#### **[ID: 215] 普列奥布拉任斯基，叶夫根尼·阿列克谢耶维奇 // Preobrazhensky, Evgeny Alekseyevich**
+* **Encoding:** `PRE-FIG-215`
+* **Overview:** 苏联经济学家，以其关于社会主义原始积累的理论而闻名。
+* **Key Word (s):** 普列奥布拉任斯基, 苏联经济学家, 社会主义原始积累, 理论 (Preobrazhensky, Soviet Economist, Socialist Primitive Accumulation, Theory)
+* **Parameter (s):** [Theoretical Contributions], [Historical Context], [Political Fate] // [理论贡献], [历史背景], [政治命运]
+
+#### **[ID: 216] 斯大林主义 // Stalinism**
+* **Encoding:** `STA-POL-216`
+* **Overview:** 指斯大林在苏联建立的政治体制和思想体系，其特点是高度集权、个人崇拜和教条主义。
+* **Key Word (s)::** 斯大林主义, 斯大林, 苏联, 集权 (Stalinism, Stalin, Soviet Union, Centralization)
+* **Parameter (s):** [Characteristics], [Historical Period], [Critiques] // [特征], [历史时期], [批判]
+
+#### **[ID: 217] 斯大林，约瑟夫·维萨里昂诺维奇 // Stalin, Joseph Vissarionovich**
+* **Encoding:** `STA-FIG-217`
+* **Overview:** 苏联共产党和苏联的主要领导人，在苏联建立了高度集权的政治经济体制。
+* **Key Word (s):** 斯大林, 苏联共产党, 领导人, 集权 (Stalin, Communist Party of the Soviet Union, Leader, Centralization)
+* **Parameter (s):** [Historical Role], [Political System], [Impact] // [历史作用], [政治制度], [影响]
+
+#### **[ID: 218] 斯拉法，皮尔罗 // Sraffa, Piero**
+* **Encoding:** `SRA-FIG-218`
+* **Overview:** 意大利经济学家，对李嘉图和马克思的经济学理论有重要研究，其著作对新李嘉图学派产生影响。
+* **Key Word (s):** 斯拉法, 经济学家, 李嘉图, 马克思 (Sraffa, Economist, Ricardo, Marx)
+* **Parameter (s):** [Academic Contributions], [Theoretical Positions], [Influence] // [学术贡献], [理论立场], [影响]
+
+#### **[ID: 219] 奥地利马克思主义 // Austrian Marxism**
+* **Encoding:** `AUS-MAR-219`
+* **Overview:** 19 世纪末 20 世纪初在奥地利发展起来的马克思主义流派，其特点是关注民族问题、国家理论和法律问题。
+* **Key Word (s):** 奥地利马克思主义, 奥地利, 民族问题, 国家理论 (Austrian Marxism, Austria, National Question, Theory of the State)
+* **Parameter (s):** [Historical Context], [Key Figures], [Key Ideas] // [历史背景], [关键人物], [主要思想]
+
+#### **[ID: 220] 鲍威尔，奥托 // Bauer, Otto**
+* **Encoding:** `BAU-FIG-220`
+* **Overview:** 奥地利社会民主党理论家和政治家，奥地利马克思主义的重要代表人物，对民族问题有深入研究。
+* **Key Word (s):** 鲍威尔, 奥地利社会民主党, 奥地利马克思主义, 民族问题 (Bauer, Austrian Social Democratic Party, Austrian Marxism, National Question)
+* **Parameter (s):** [Theoretical Contributions], [Political Role], [Major Works] // [理论贡献], [政治作用], [主要著作]
+
+#### **[ID: 221] 蒲鲁东，皮埃尔—约瑟夫 // Proudhon, Pierre-Joseph**
+* **Encoding:** `PRO-FIG-221`
+* **Overview:** 法国思想家，互助主义的创始人，被视为无政府主义的先驱之一，与马克思有过理论争论。
+* **Key Word (s):** 蒲鲁东, 互助主义, 无政府主义, 理论争论 (Proudhon, Mutualism, Anarchism, Theoretical Debate)
+* **Parameter (s):** [Key Ideas], [Relationship to Marx], [Influence] // [主要思想], [与马克思的关系], [影响]
+
+#### **[ID: 222] 潘涅库克，安东尼 // Pannekoek, Antonie**
+* **Encoding:** `PAN-FIG-222`
+* **Overview:** 荷兰天文学家和左翼共产主义理论家，强调工人委员会的作用和自下而上的革命。
+* **Key Word (s):** 潘涅库克, 左翼共产主义, 工人委员会, 理论家 (Pannekoek, Left Communism, Workers' Councils, Theorist)
+* **Parameter (s):** [Theoretical Positions], [Political Activities], [Influence] // [理论立场], [政治活动], [影响]
+
+#### **[ID: 223] 霍克海默，麦克斯 // Horkheimer, Max**
+* **Encoding:** `HOR-FIG-223`
+* **Overview:** 德国哲学家和社会学家，法兰克福学派的创始人之一和重要领导人，批判启蒙和工具理性。
+* **Key Word (s):** 霍克海默, 法兰克福学派, 批判理论, 启蒙 (Horkheimer, Frankfurt School, Critical Theory, Enlightenment)
+* **Parameter (s):** [Key Ideas], [Major Works], [Role in Frankfurt School] // [主要思想], [主要著作], [在法兰克福学派中的作用]
+
+### 5.2. [SUB-INDEX: 05-02] Schools and Traditions // 学派与传统
+
+#### **[ID: 224] 日本马克思主义经济学 // Japanese Marxist Economics**
+* **Encoding:** `JAP-ECO-224`
+* **Overview:** 日本学者对马克思主义经济学理论的研究和发展，形成了具有日本特色的马克思主义经济学。
+* **Key Word (s):** 日本马克思主义经济学, 日本, 马克思主义经济学, 研究 (Japanese Marxist Economics, Japan, Marxist Economics, Research)
+* **Parameter (s):** [Historical Development], [Key Figures], [Theoretical Focus] // [历史发展], [关键人物], [理论焦点]
+
+#### **[ID: 225] 列宁主义 // Leninism**
+* **Encoding:** `LEN-POL-225`
+* **Overview:** 列宁在新的历史条件下对马克思主义的运用和发展，包括关于帝国主义、无产阶级政党和无产阶级专政的理论。
+* **Key Word (s)::** 列宁主义, 列宁, 马克思主义, 帝国主义 (Leninism, Lenin, Marxism, Imperialism)
+* **Parameter (s):** [Key Principles], [Historical Context], [Influence] // [核心原则], [历史背景], [影响]
+
+#### **[ID: 226] 托洛茨基主义 // Trotskyism**
+* **Encoding:** `TRO-POL-226`
+* **Overview:** 托洛茨基在与斯大林的政治斗争中形成的理论体系，强调不断革命论和世界革命。
+* **Key Word (s):** 托洛茨基主义, 托洛茨基, 不断革命论, 世界革命 (Trotskyism, Trotsky, Permanent Revolution, World Revolution)
+* **Parameter (s):** [Core Ideas], [Relationship to Stalinism], [Historical Development] // [核心思想], [与斯大林主义的关系], [历史发展]
+
+#### **[ID: 227] 西方马克思主义 // Western Marxism**
+* **Encoding:** `WES-MAR-227`
+* **Overview:** 20 世纪在西欧发展起来的马克思主义流派，其特点是关注哲学、文化、意识形态等问题，与苏联马克思主义有所区别。
+* **Key Word (s):** 西方马克思主义, 西欧, 哲学, 文化 (Western Marxism, Western Europe, Philosophy, Culture)
+* **Parameter (s):** [Historical Context], [Key Figures], [Theoretical Focus] // [历史背景], [关键人物], [理论焦点]
+
+#### **[ID: 228] 东欧马克思主义 // Eastern European Marxism**
+* **Encoding:** `EAS-MAR-228`
+* **Overview:** 在东欧社会主义国家特定历史条件下形成的马克思主义理论和实践，受到苏联模式的影响。
+* **Key Word (s):** 东欧马克思主义, 东欧, 社会主义, 苏联模式 (Eastern European Marxism, Eastern Europe, Socialism, Soviet Model)
+* **Parameter (s):** [Historical Context], [Key Features], [Variations] // [历史背景], [关键特征], [变体]
+
+#### **[ID: 229] 法兰克福学派 // Frankfurt School**
+* **Encoding:** `FRA-SCH-229`
+* **Overview:** 20 世纪在德国成立的一个重要的批判理论学派，对现代资本主义社会进行跨学科批判。
+* **Key Word (s):** 法兰克福学派, 批判理论, 资本主义, 跨学科 (Frankfurt School, Critical Theory, Capitalism, Interdisciplinary)
+* **Parameter (s):** [Key Figures], [Core Ideas], [Historical Development] // [关键人物], [核心思想], [历史发展]
+
+#### **[ID: 230] 欧洲共产主义 // Eurocommunism**
+* **Encoding:** `EUR-COM-230`
+* **Overview:** 20 世纪 70 年代西欧一些共产党提出的独立于苏联模式，强调通过议会道路实现社会主义的政治路线。
+* **Key Word (s):** 欧洲共产主义, 西欧, 共产党, 议会道路 (Eurocommunism, Western Europe, Communist Party, Parliamentary Road)
+* **Parameter (s):** [Historical Context], [Key Features], [Impact] // [历史背景], [关键特征], [影响]
+
+#### **[ID: 231] 结构主义 // Structuralism**
+* **Encoding:** `STR-PHI-231`
+* **Overview:** 一种强调社会现象由深层结构决定的理论方法，对马克思主义研究产生影响（如阿尔都塞）。
+* **Key Word (s):** 结构主义, 结构, 社会现象, 方法论 (Structuralism, Structure, Social Phenomena, Methodology)
+* **Parameter (s):** [Core Principles], [Application to Marxism], [Critiques] // [核心原则], [对马克思主义的应用], [批判]
+
+#### **[ID: 232] 康德主义和新康德主义 // Kantianism and Neo-Kantianism**
+* **Encoding:** `KAN-NEO-232`
+* **Overview:** 康德哲学及其后继发展的新康德主义，对一些马克思主义理论家（如奥地利马克思主义者）产生影响。
+* **Key Word (s):** 康德主义, 新康德主义, 康德, 哲学 (Kantianism, Neo-Kantianism, Kant, Philosophy)
+* **Parameter (s):** [Key Ideas of Kant], [Development of Neo-Kantianism], [Influence on Marxism] // [康德主要思想], [新康德主义发展], [对马克思主义的影响]
+
+#### **[ID: 233] 新李嘉图学派 // Neo-Ricardianism**
+* **Encoding:** `NEO-RIC-233`
+* **Overview:** 20 世纪兴起的一个经济学流派，受李嘉图和斯拉法影响，关注价值、价格和分配等问题，对主流经济学提出批判。
+* **Key Word (s):** 新李嘉图学派, 李嘉图, 斯拉法, 经济学 (Neo-Ricardianism, Ricardo, Sraffa, Economics)
+* **Parameter (s):** [Key Figures], [Theoretical Focus], [Relationship to Marxism] // [关键人物], [理论焦点], [与马克思主义的关系]
+
+## [INDEX: 06] Related Concepts and Disciplines // 相关概念与学科
+
+### 6.1. [SUB-INDEX: 06-01] Cross-Disciplinary Connections // 跨学科联系
+
+#### **[ID: 234] 心理学 // Psychology**
+* **Encoding:** `PSY-GEN-234`
+* **Overview:** 研究人类思维和行为的科学。一些马克思主义者试图将心理学与马克思主义理论相结合。
+* **Key Word (s)::** 心理学, 思维, 行为, 科学 (Psychology, Thinking, Behavior, Science)
+* **Parameter (s):** [Branches], [Methodologies], [Relationship to Marxism] // [分支], [方法论], [与马克思主义的关系]
+
+#### **[ID: 235] 艺术 // Art**
+* **Encoding:** `ART-CUL-235`
+* **Overview:** 人类创造性表达的形式，包括绘画、音乐、文学等。马克思主义关注艺术的社会功能和阶级性。
+* **Key Word (s)::** 艺术, 创造性, 文化, 社会功能 (Art, Creativity, Culture, Social Function)
+* **Parameter (s):** [Forms], [Social Role], [Relationship to Ideology] // [形式], [社会作用], [与意识形态的关系]
+
+#### **[ID: 236] 达尔文主义 // Darwinism**
+* **Encoding:** `DAR-SCI-236`
+* **Overview:** 达尔文提出的生物进化理论，通过自然选择解释物种的起源和发展。
+* **Key Word (s):** 达尔文主义, 进化, 自然选择, 生物学 (Darwinism, Evolution, Natural Selection, Biology)
+* **Parameter (s):** [Core Principles], [Influence], [Relationship to Social Theory] // [核心原则], [影响], [与社会理论的关系]
+
+#### **[ID: 237] 地理 // Geography**
+* **Encoding:** `GEO-SCI-237`
+* **Overview:** 研究地球表面自然和人文现象及其相互关系的学科。
+* **Key Word (s)::** 地理, 地球, 自然, 人文 (Geography, Earth, Nature, Human)
+* **Parameter (s):** [Branches], [Methodologies], [Relationship to Social Science] // [分支], [方法论], [与社会科学的关系]
+
+#### **[ID: 238] 自然 // Nature**
+* **Encoding:** `NAT-PHI-238`
+* **Overview:** 独立于人类意识而存在的物质世界及其运动规律。
+* **Key Word (s)::** 自然, 物质世界, 规律, 存在 (Nature, Material World, Laws, Existence)
+* **Parameter (s):** [Relationship to Humanity], [Role in Production], [Philosophical Concepts] // [与人类的关系], [在生产中的作用], [哲学概念]
+
+#### **[ID: 239] 自然科学 // Natural Science**
+* **Encoding:** `NAT-SCI-239`
+* **Overview:** 研究自然界物质形态、结构、性质和运动规律的科学，如物理学、化学、生物学等。
+* **Key Word (s):** 自然科学, 自然界, 物质, 规律 (Natural Science, Natural World, Matter, Laws)
+* **Parameter (s):** [Branches], [Methodologies], [Relationship to Philosophy] // [分支], [方法论], [与哲学的关系]
+
+#### **[ID: 240] 自然辩证法 // Dialectics of Nature**
+* **Encoding:** `DIA-NAT-240`
+* **Overview:** 恩格斯提出的概念，认为自然界本身也是辩证发展的，遵循普遍的辩证规律。
+* **Key Word (s):** 自然辩证法, 自然界, 辩证法, 规律 (Dialectics of Nature, Natural World, Dialectics, Laws)
+* **Parameter (s):** [Core Ideas], [Relationship to Dialectical Materialism], [Critiques] // [核心思想], [与辩证唯物主义的关系], [批判]
+
+#### **[ID: 241] 法律 // Law**
+* **Encoding:** `LAW-LEG-241`
+* **Overview:** 由国家制定或认可并由国家强制力保证实施的行为规范体系。在马克思主义看来，法律是阶级意志的体现。
+* **Key Word (s)::** 法律, 国家, 规范, 阶级意志 (Law, State, Norms, Class Will)
+* **Parameter (s):** [Functions], [Relationship to State], [Historical Development] // [功能], [与国家的关系], [历史发展]
+
+#### **[ID: 242] 科学 // Science**
+* **Encoding:** `SCI-GEN-242`
+* **Overview:** 通过系统的观察、实验和理论构建来认识和解释世界的知识体系。
+* **Key Word (s)::** 科学, 知识体系, 观察, 实验 (Science, Knowledge System, Observation, Experiment)
+* **Parameter (s):** [Methodology], [Branches], [Social Role] // [方法论], [分支], [社会作用]
+
+#### **[ID: 243] 科学和技术革命 // Scientific and Technological Revolution**
+* **Encoding:** `SCI-TEC-243`
+* **Overview:** 科学和技术领域的重大突破和飞跃，对生产力、社会结构和人类生活产生深刻影响。
+* **Key Word (s):** 科学和技术革命, 科学, 技术, 生产力 (Scientific and Technological Revolution, Science, Technology, Productive Forces)
+* **Parameter (s):** [Key Features], [Historical Periods], [Impact] // [关键特征], [历史时期], [影响]
+
+#### **[ID: 244] 语言学 // Linguistics**
+* **Encoding:** `LIN-SCI-244`
+* **Overview:** 研究语言的结构、功能、历史和演变的学科。
+* **Key Word (s)::** 语言学, 语言, 结构, 功能 (Linguistics, Language, Structure, Function)
+* **Parameter (s):** [Branches], [Methodologies], [Relationship to Social Science] // [分支], [方法论], [与社会科学的关系]
+
+#### **[ID: 245] 政治经济学 // Political Economy**
+* **Encoding:** `POL-ECO-245`
+* **Overview:** 研究社会生产关系及其发展规律的学科。马克思主义政治经济学揭示资本主义的内在矛盾。
+* **Key Word (s):** 政治经济学, 生产关系, 规律, 资本主义 (Political Economy, Production Relations, Laws, Capitalism)
+* **Parameter (s):** [Scope of Study], [Methodology], [Historical Schools] // [研究范围], [方法论], [历史学派]
+
+#### **[ID: 246] 质量和数量 // Quality and Quantity**
+* **Encoding:** `QUA-QUAN-246`
+* **Overview:** 辩证法的一对范畴，质量指事物的内在规定性，数量指事物的规模、程度等可以量化的属性。二者相互转化。
+* **Key Word (s):** 质量, 数量, 辩证法, 转化 (Quality, Quantity, Dialectics, Transformation)
+* **Parameter (s):** [Definitions], [Relationship], [Law of Transformation] // [定义], [关系], [质量互变规律]
+
+#### **[ID: 247] 基督教 // Christianity**
+* **Encoding:** `CHR-REL-247`
+* **Overview:** 一种一神论宗教，信仰耶稣基督为救世主。
+* **Key Word (s)::** 基督教, 宗教, 信仰, 耶稣 (Christianity, Religion, Faith, Jesus)
+* **Parameter (s):** [Beliefs], [History], [Social Role] // [信仰], [历史], [社会作用]
+
+#### **[ID: 248] 犹太教 // Judaism**
+* **Encoding:** `JUD-REL-248`
+* **Overview:** 一种古老的一神论宗教，是犹太民族的传统信仰。
+* **Key Word (s)::** 犹太教, 宗教, 信仰, 犹太民族 (Judaism, Religion, Faith, Jewish People)
+* **Parameter (s):** [Beliefs], [History], [Cultural Significance] // [信仰], [历史], [文化意义]
+
+#### **[ID: 249] 伊斯兰教 // Islam**
+* **Encoding:** `ISL-REL-249`
+* **Overview:** 一种一神论宗教，信仰安拉为唯一的真主，穆罕默德是其使者。
+* **Key Word (s)::** 伊斯兰教, 宗教, 信仰, 安拉 (Islam, Religion, Faith, Allah)
+* **Parameter (s):** [Beliefs], [History], [Geographical Spread] // [信仰], [历史], [地理分布]
+
+#### **[ID: 250] 协作 // Cooperation**
+* **Encoding:** `COO-SOC-250`
+* **Overview:** 人们为了共同目标而协同工作，共同完成任务。
+* **Key Word (s)::** 协作, 共同目标, 工作, 合作 (Cooperation, Common Goal, Work, Collaboration)
+* **Parameter (s):** [Forms], [Benefits], [Role in Production] // [形式], [益处], [在生产中的作用]
+
+#### **[ID: 251] 战争 // War**
+* **Encoding:** `WAR-POL-251`
+* **Overview:** 国家、民族、阶级或政治集团之间为了实现各自目的而进行的武装冲突。
+* **Key Word (s)::** 战争, 武装冲突, 国家, 阶级 (War, Armed Conflict, State, Class)
+* **Parameter (s):** [Causes], [Forms], [Social and Economic Impact] // [原因], [形式], [社会和经济影响]
+
+#### **[ID: 252] 国际 // International**
+* **Encoding:** `INT-POL-252`
+* **Overview:** 指跨越国界的组织或运动，如第一国际、第二国际、共产国际等，旨在联合各国工人阶级。
+* **Key Word (s)::** 国际, 组织, 运动, 工人阶级 (International, Organization, Movement, Working Class)
+* **Parameter (s):** [Historical Examples], [Goals], [Impact] // [历史示例], [目标], [影响]
+
+#### **[ID: 253] 国际主义 // Internationalism**
+* **Encoding:** `INT-POL-253`
+* **Overview:** 一种政治原则，强调各国工人阶级和被压迫民族的共同利益和团结，反对民族主义和沙文主义。
+* **Key Word (s):** 国际主义, 工人阶级, 团结, 民族主义 (Internationalism, Working Class, Solidarity, Nationalism)
+* **Parameter (s):** [Core Principles], [Historical Manifestations], [Relationship to Nationalism] // [核心原则], [历史表现], [与民族主义的关系]
+
+#### **[ID: 254] 剥削 // Exploitation**
+* **Encoding:** `EXP-SOC-254`
+* **Overview:** 在社会学语境下，指强势群体利用其优势地位无偿占有弱势群体的劳动或成果。 (重复条目，内容同 ID: 061, 124)
+* **Key Word (s)::** 剥削, 强势群体, 弱势群体, 劳动 (Exploitation, Dominant Group, Subordinate Group, Labor)
+* **Parameter (s):** [Mechanism], [Forms], [Social Impact] // [机制], [形式], [社会影响]
+
+#### **[ID: 255] 解放 // Emancipation**
+* **Encoding:** `EMA-SOC-255`
+* **Overview:** 从束缚、压迫或剥削中获得自由和解放的过程。
+* **Key Word (s)::** 解放, 自由, 压迫, 剥削 (Emancipation, Freedom, Oppression, Exploitation)
+* **Parameter (s):** [Forms], [Process], [Goal] // [形式], [过程], [目标]
+
+#### **[ID: 256] 精英 // Elite**
+* **Encoding:** `ELI-SOC-256`
+* **Overview:** 在社会中拥有较高地位、权力和影响力的少数群体。
+* **Key Word (s)::** 精英, 地位, 权力, 少数群体 (Elite, Status, Power, Minority Group)
+* **Parameter (s):** [Definition], [Formation], [Role in Society] // [定义], [形成], [在社会中的作用]
+
+#### **[ID: 257] 协作 // Cooperation**
+* **Encoding:** `COO-ECO-257`
+* **Overview:** 人们为了共同目标而协同工作，共同完成任务。 (重复条目，内容同 ID: 250)
+* **Key Word (s)::** 协作, 共同目标, 工作, 合作 (Cooperation, Common Goal, Work, Collaboration)
+* **Parameter (s):** [Forms], [Benefits], [Role in Production] // [形式], [益处], [在生产中的作用]
+
+#### **[ID: 258] 政治经济学 // Political Economy**
+* **Encoding:** `POL-ECO-258`
+* **Overview:** 研究社会生产关系及其发展规律的学科。马克思主义政治经济学揭示资本主义的内在矛盾。 (重复条目，内容同 ID: 245)
+* **Key Word (s):** 政治经济学, 生产关系, 规律, 资本主义 (Political Economy, Production Relations, Laws, Capitalism)
+* **Parameter (s):** [Scope of Study], [Methodology], [Historical Schools] // [研究范围], [方法论], [历史学派]
