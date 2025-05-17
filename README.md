@@ -1,9 +1,8 @@
-# 项目简介
+## 项目简介
 一个面向思想政治教育师范生的马克思主义基础概念条目库。<br>
 
 这是一个结构化的条目库。它收录了258个马克思主义基础概念条目，并为每个条目设置了元数据。它用于为思想政治教育师范生将生成式人工智能的语言模型训练为课程代理提供知识库，也可以下载到个人阅读器中浏览。
 
----
 ## 名称
 * **A database of basic concepts of Marxism for teacher candidates in ideological and political education**  // 面向思想政治教育师范生的马克思主义基本概念条目库
 ---
