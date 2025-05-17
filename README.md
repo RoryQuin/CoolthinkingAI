@@ -13,10 +13,10 @@
 * **Timestamp:** 2025-05-16 // 时间戳：2025-05-16
 ---
 ## 维护团队
-北京师范大学乐育书院农政学人社群小组
+* 北京师范大学乐育书院农政学人社群小组
 ---
 ## 参考文献
-Google.Gemini Canvas[EB/OL].(2025-03-19)[2025-05-12]. https://gemini.google.com/canvas.
-Python Software Foundation.Python 3.13[EB/OL].(2023-10-02)[2025-05-12]. https://www.python.org/downloads/release/python-3130/.
-Obsidian.Obsidian v1.8.9 [EB/OL].[2025-05-12]. https://obsidian.md/.
-Ottomore T, Harris L, Kiernan V G, 等。*A Dictionary of Marxist Thought* [M]. 陈叔平，王谨，曾宪生，等译。陈叔平校。郑州：河南人民出版社，1994.
+Google.Gemini Canvas[EB/OL].(2025-03-19)[2025-05-12]. https://gemini.google.com/canvas.<br>
+Python Software Foundation.Python 3.13[EB/OL].(2023-10-02)[2025-05-12]. https://www.python.org/downloads/release/python-3130/.<br>
+Obsidian.Obsidian v1.8.9 [EB/OL].[2025-05-12]. https://obsidian.md/.<br>
+Ottomore T, Harris L, Kiernan V G, 等。*A Dictionary of Marxist Thought* [M]. 陈叔平，王谨，曾宪生，等译。陈叔平校。郑州：河南人民出版社，1994.<br>
